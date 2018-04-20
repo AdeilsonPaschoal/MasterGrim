@@ -1,0 +1,7 @@
+templateName,database/templates/skill_buffradius.tpl,
+ActorName,,
+Class,Skill_BuffRadius,
+FileDescription,,
+buffSkillName,records/skills/druid/wolfshape_buff.dbr,
+instantCast,1,
+fileNameHistoryEntry,mods/mastergrim/records/skills/druid/wolfshape.dbr,

@@ -1,0 +1,83 @@
+#Priest
+
+tagSkillClassNamePriest=Priest
+tagSkillClassDescriptionPriest=Simboliza o conhecimento e a fé. A Sacerdotisa usa a fé para proteger seus aliados contra os males, e o conhecimento em fogo e raio para expurgar da terra os impuros.
+
+tagSkillClassName11=Priest
+
+tagSkillClassName0111=Skyguard
+tagSkillClassName0211=Vanguard
+tagSkillClassName0311=Sage
+tagSkillClassName0411=Monk
+tagSkillClassName0511=Skymage
+tagSkillClassName0611=Healer
+tagSkillClassName0711=Runecaster
+tagSkillClassName0811=Mystic
+
+
+#Hunter
+tagSkillClassNameHunter=Hunter
+tagSkillClassDescriptionHunter=Especialista em armas a distância, o Hunter usa a perfuração de seus dardos para ferir o inimigo ocasionando sangramento. Seu conhecimento em veneno torna ainda mais mortal os seus disparos.
+
+tagSkillClassName12=Hunter
+tagSkillClassName0112=Cavalier
+tagSkillClassName0212=Sniper
+tagSkillClassName0312=Infamous
+tagSkillClassName0412=Thief
+tagSkillClassName0512=Elemental Hunter
+tagSkillClassName0612=Wild
+tagSkillClassName0712=Stalker
+tagSkillClassName0812=Bone hunter
+tagSkillClassName1112=Divine Hunter
+
+
+#FrostSorcerer
+tagSkillClassNameFrostSorcerer=Frost Sorcerer
+tagSkillClassDescriptionFrostSorcerer= Especialista em gelo, Frost Sorcerer domina magias mas também se destaca em armas encantadas com gelo.
+
+tagSkillClassName13=Frost Sorcerer
+tagSkillClassName0113=Frost Knight
+tagSkillClassName0213=Elementalist
+tagSkillClassName0313=Prophet
+tagSkillClassName0413=Icebreaker
+tagSkillClassName0513=Archmage
+tagSkillClassName0613=Windwalker
+tagSkillClassName0713=Frost Infiltrator
+tagSkillClassName0813=Cryomancer
+tagSkillClassName1113=Frost Cleric
+tagSkillClassName1213=Ice Hunter
+
+#ChaosBringer
+tagSkillClassNameVoidBringer=Bringer of Void
+tagSkillClassDescriptionVoidBringer=Combate o vazio contra o próprio poder usado pelas criaturas ctônicas. Especializado em dano por caos, se mostra hábil em todas formas de combate.
+
+tagSkillClassName14=Bring of Void
+tagSkillClassName0114=Void Knight
+tagSkillClassName0214=Hellfire
+tagSkillClassName0314=Void Witch
+tagSkillClassName0414=Shadownblades
+tagSkillClassName0514=Dark Mage
+tagSkillClassName0614=Exorcist
+tagSkillClassName0714=Soulraiser
+tagSkillClassName0814=Voidmancer
+tagSkillClassName1114=Judge
+tagSkillClassName1214=Void Hunter
+tagSkillClassName1314=Void Cold
+
+#Druid
+tagSkillClassNameDruid=Druid
+tagSkillClassDescriptionDruid=Os druidas tiram proveito dos vastos poderes da natureza para preservar o equilíbrio e proteger a vida. Especialista em veneno também utiliza armas para combate, além de contar com animais para ajuda-lo.
+
+tagSkillClassName15=Druid
+tagSkillClassName0115=Ancestral Warrior
+tagSkillClassName0215=Heretic
+tagSkillClassName0315=Witch Doctor
+tagSkillClassName0415=Ancestral Mercenary
+tagSkillClassName0515=Mage of the forest
+tagSkillClassName0615=Beastcaller
+tagSkillClassName0715=Ancient Inquisitor
+tagSkillClassName0815=Forestmancer
+tagSkillClassName1115=Forest Keeper
+tagSkillClassName1215=Trapper
+tagSkillClassName1315=Cold forest
+tagSkillClassName1415=Chaotic Spring

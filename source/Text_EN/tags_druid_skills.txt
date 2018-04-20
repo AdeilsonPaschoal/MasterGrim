@@ -1,0 +1,121 @@
+tagClassDruidSkillName00=Druid
+tagClassDruidSkillDescription00=Protetor das florestas e animais.
+
+#Vines wave
+tagSkillDruidName01=Vines Wave
+tagSkillDruidDesc01=Acerte vários inimigos com ondas de videiras. E deixo-os sangrandos com os cortes.
+tagSkillDruidName01A=Extension
+tagSkillDruidDesc01A=Aumenta a distância e o dano da onda.
+
+#Poisonous overflow
+tagSkillDruidName02=Poisonous Overflow
+tagSkillDruidDesc02=Um cogumelo com veneno no seu interior que explode ao ser tocado.
+tagSkillDruidName02S1=Poison Cloud
+
+#Acid Rain
+tagSkillDruidName03=Acid Rain
+tagSkillDruidDesc03=Invoque uma chuva ácida para envenenar os inimigos atingidos.
+tagSkillDruidName03A=Poison Pool
+tagSkillDruidDesc03A=É formada poças de veneno pela chuva ácida.
+
+#Plague bats
+tagSkillDruidName04=Plague Basts
+tagSkillDruidDesc04=Invoca morcegos de veneno que explodem ao tocar um alvo.
+tagSkillDruidName04A=Increase Bats
+tagSkillDruidDesc04A=Aumenta o número de morcegos lançados.
+tagSkillDruidName04B=Intense Poison
+tagSkillDruidDesc04B=Aumenta a intensidade do veneno dos morcegos.
+
+#Stone Barrier
+tagSkillDruidName05=Stone Barrier
+tagSkillDruidDesc05=A barreira de pedras absorve parte do dano recebido.
+tagSkillDruidName05A=Protection of land
+tagSkillDruidDesc05A=Protege você contra danos fisicos e stun.
+tagSkillDruidName05B=Stone Skin
+tagSkillDruidDesc05B=Aumenta suas resistências fisicas e sua pele inflige dano fisico ao ser tocada.
+
+#Healing Nature
+tagSkillDruidName06=Healing Nature
+tagSkillDruidDesc06=Ao se unir à natureza parte da sua vida e dos seus aliados é restaurada.
+tagSkillDruidName06A=Cicratization
+tagSkillDruidDesc06A=Prolongue o efeito da cura.
+
+#Animal Wrath
+tagSkillDruidName07=Animal Wrath
+tagSkillDruidDesc07=Use a ira dos seus animais para destruir os inimigos.
+
+#Wolf Shape
+tagSkillDruidName08=Wolf Shape
+tagSkillDruidDesc08=Use o poder do lobo para ganhar velocidade e perfuração.{^n}^o Requer a habilidade Wolf Path
+
+#Bear Shape
+tagSkillDruidName09=Bear Shape
+tagSkillDruidDesc09=Use o poder do urso para ganhar resistências e solidez nos combates.{^n}^o Requer a habilidade Bear Path
+
+#Viper Shape
+tagSkillDruidName10=Viper Shape
+tagSkillDruidDesc10=Use o poder da víbora para acertos críticos e danos venenosos.{^n}^o Requer a habilidade Viper Path
+
+#Forest Essence
+tagSkillDruidName11=Forest Essence
+tagSkillDruidDesc11=Use o poder da floresta para aumenta a vida e cura.{^n}^o Requer a habilidade Forest Path.
+
+#Natural Resistance
+tagSkillDruidName12=Natural Resistances
+tagSkillDruidDesc12=Aumenta suas resistências naturais.
+
+#Wolf Path
+tagSkillDruidName13=Wolf Path.
+tagSkillDruidDesc13=Assuma a essência de um lobo, aumentando a perícia em perfuração e sangramento.
+
+#Bear Path
+tagSkillDruidName14=Bear Path
+tagSkillDruidDesc14=Assuma a essência de um urso, aumentando a sua robustez.
+
+#Viper Path
+tagSkillDruidName15=Viper Path
+tagSkillDruidDesc15=Assuma a essência de uma víbora, aumentando sua perícia no veneno.
+
+#Forest Path
+tagSkillDruidName16=Forest Path
+tagSkillDruidDesc16=Assuma o controle das florestas, aumenta sua vida e espiríto.
+
+#Stone Guardian
+tagSkillDruidName17=Stone Guardian
+tagSkillDruidDesc17=Invoque o guardião de pedra da floresta.
+tagSkillDruidName17T=Transmutador
+tagSkillDruidDesc17T=Aumenta o limite de invocações mas diminui seus atributos básicos.{^n}^o Requer a habilidade Bear Path.
+tagSkillDruidName17S1=Stone Strike
+tagSkillDruidName17S2=Tremor
+
+#Wild Wolf
+tagSkillDruidName18=Wild Wolf
+tagSkillDruidDesc18=Invoque o lobo selvagem da floresta.
+tagSkillDruidName18T=Transmutador
+tagSkillDruidDesc18T=Aumenta o limite de invocações mas diminui seus atributos básicos.{^n}^o Requer a habilidade Wolf Path.
+tagSkillDruidName18S1=Claw
+tagSkillDruidName18S2=Bleeding Claw
+
+#Poison Rat
+tagSkillDruidName19=Poison Rat
+tagSkillDruidDesc19=Invoque o rato espinhoso de veneno da floresta.
+tagSkillDruidName19T=Transmutador
+tagSkillDruidDesc19T=Aumenta o limite de invocações mas diminui seus atributos básicos.{^n}^o Requer a habilidade Viper Path.
+tagSkillDruidName19S1=Poisonous Bite
+tagSkillDruidName19S2=Poison aura
+tagSkillDruidName19S2=Spine attack
+
+#Live tree
+tagSkillDruidName20=Live tree
+tagSkillDruidDesc20=Invoque a árvore viva entrada no centro da floresta.
+tagSkillDruidName20T=Transmutador
+tagSkillDruidDesc20T=Aumenta o limite de invocações mas diminui seus atributos básicos.{^n}^o Requer a habilidade Forest Path.
+tagSkillDruidName20S1=Stroke
+tagSkillDruidName20S2=Wave
+tagSkillDruidName20S3=Regenerative root
+
+#Seismic Blast
+tagSkillDruidName21=Seismic Blast
+tagSkillDruidDesc21=Uma pancada forte no chão, o impacto afeta os inimigos atingidos com trauma interno.
+tagSkillDruidName21A=Intense Blast
+tagSkillDruidDesc21A=Aumenta o dano e tem chance de petrificar o alvo.

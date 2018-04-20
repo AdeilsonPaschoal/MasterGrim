@@ -1,0 +1,7 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,,
+petSkillName,records/skills/hunter/pets/armadilhaimo_skill_flare2.dbr,
+petChanges,,
+cooldownTime,,

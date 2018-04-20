@@ -1,0 +1,77 @@
+tagClassVoidBringerSkillName00=Bringer of Void
+tagClassVoidBringerSkillDescription00=Vazio contra o vazio.
+
+#Chaos Bolt
+tagSkillVoidBringerName01=Chaos Bolt
+tagSkillVoidBringerDesc01=Lança projéteis de caos nos inimigos.
+tagSkillVoidBringerName01A=Intense Bolt
+tagSkillVoidBringerDesc01A=Aumenta o dano e o número de fragmentos.
+
+#Chaos Strike
+tagSkillVoidBringerName02=Chaos Strike
+tagSkillVoidBringerDesc02=Em formato de foice acerta vários inimigos próximos com dano de caos.{^n}^o Requer arma corpo a corpo.
+tagSkillVoidBringerName02T=Transmutador
+tagSkillVoidBringerDesc02T=Armas de duas mão infligem mais dano.{^n}^o Requer arma corpo a corpo de duas mãos.
+tagSkillVoidBringerName02A=Drain
+tagSkillVoidBringerDesc02A=Seus ataques agora drenam a vida dos inimigos.
+
+
+#Void Strike
+tagSkillVoidBringerName03=Void Strike
+tagSkillVoidBringerDesc03=Invista rapidamente no seu alvo causando dano de caos.{^n}^o Requer arma  corpo a corpo.
+tagSkillVoidBringerName03A=Chaos Explosion
+tagSkillVoidBringerDesc03A=Ao atingir o alvo é causada uma explosão de caos.
+
+#Reaping Strike
+tagSkillVoidBringerName04=Reaping Strike
+tagSkillVoidBringerDesc04=Ataque de caos usada em armas corpo a corpo ou à distância.{^n}^o Requer arma corpo a corpo ou a distância.
+tagSkillVoidBringerName04A=Explosive Strike
+tagSkillVoidBringerDesc04A=Seus ataques geram dano em área de caos.
+tagSkillVoidBringerName04B=Chaos Fragments
+tagSkillVoidBringerDesc04B=Ao acertar o alvo é replicado fragmentos de caos que atingem inimigos em volta.{^n}^o Somente armas a distância.
+tagSkillVoidBringerName04C=Empowerment
+tagSkillVoidBringerDesc04C=Aumenta o dano de seus ataque por caos e acrescenta dano por queimadura.
+
+#Chaos Lightning
+tagSkillVoidBringerName05=Chaos Lightning
+tagSkillVoidBringerDesc05=Raiso de caos imrompem de sua mãos e se espalham entre os inimigos.
+tagSkillVoidBringerName05A=Thunder
+tagSkillVoidBringerDesc05A=Aumenta a propagação de raios.
+tagSkillVoidBringerName05B=Electrocution
+tagSkillVoidBringerDesc05A=Aumenta a intenseidade dos raios.
+
+#Chaos Weapons
+tagSkillVoidBringerName06=Chaos Weapons
+tagSkillVoidBringerDesc06=Aumenta a perícia em armas com dano de caos.
+
+#Chaos Nova
+tagSkillVoidBringerName07=Chaos Nova
+tagSkillVoidBringerDesc07=Ataque em área com dano de caos.
+tagSkillVoidBringerName07T=Transmutador
+tagSkillVoidBringerDesc07T=Aumenta consideravelmente o dano mas acrescenta cooldown.
+tagSkillVoidBringerName07A=Intense Nova
+tagSkillVoidBringerDesc07A=Aumenta a área da explosão e o dano.
+
+#Mark of void
+tagSkillVoidBringerName08=Mark of void
+tagSkillVoidBringerDesc08=Marca os inimigos com o vazio, debilitando-os.
+
+#Chaos Devastation
+tagSkillVoidBringerName09=Chaos Devastation
+tagSkillVoidBringerDesc09=Meteoros de caos caem sob os inimigos.
+
+#Chaotic
+tagSkillVoidBringerName10=Chaotic
+tagSkillVoidBringerDesc10=Aumento brutal de poder.
+
+#Walker of the void
+tagSkillVoidBringerName11=Walker of the void
+tagSkillVoidBringerDesc11=Aumenta a velocidade de movimento. Ao ser atingido tem chance de um aumento considerável de velocidade de movimento.{^n}^o Precisa ser ativada pra manter o efeito.
+
+#Reign of chaos
+tagSkillVoidBringerName12=Reign of chaos
+tagSkillVoidBringerDesc12=Ao atacar tem chances de uma chuva de caos cair sob os inimigos.{^n}^o Precisa ser ativada pra manter o efeito.
+
+#Power of the void
+tagSkillVoidBringerName13=Power of the void
+tagSkillVoidBringerDesc13=Aumento o dano de seus ataque com o poder do vazio.{^n}^o Precisa ser ativada pra manter o efeito.
