@@ -1,0 +1,9 @@
+#Set raio sagrado
+
+tagSetPriest01Name=Conjunto Raio Sagrado
+tagSetPriest01Descricao=Conjunto dado pelas dinvindades para os sacerdotes que usam o Raio Sagrado em batalha.
+
+tagSetPriest01Amuleto=Amuleto Raio Sagrado
+tagSetPriest01Anel1=Anel Raio Sagrado da Conflagração
+tagSetPriest01Anel2=Anel Raio Sagrado da Eletrocussão
+tagSetPriest01Focus=Foco Raio Sagrado
