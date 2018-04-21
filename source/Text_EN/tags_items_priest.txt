@@ -7,3 +7,6 @@ tagSetPriest01Amuleto=Amuleto Raio Sagrado
 tagSetPriest01Anel1=Anel Raio Sagrado da Conflagração
 tagSetPriest01Anel2=Anel Raio Sagrado da Eletrocussão
 tagSetPriest01Focus=Foco Raio Sagrado
+
+tagSetPriest01SkillName01=Correntes Sagradas
+tagSetPriest01SkillDesc01=Correntes elétricas sagradas se espalham entre os inimigos, causando dano e diminuindo as resistências.
