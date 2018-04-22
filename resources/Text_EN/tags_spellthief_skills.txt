@@ -1,0 +1,79 @@
+tagClassSpellThiefSkillName00=Spell Thief
+tagClassSpellThiefSkillDescription00=Lãminas encatadas.
+
+#Clones
+tagSkillSpellThiefName01=Clones
+tagSkillSpellThiefDesc01=Invoca clones de Allostria.{^n}^o Os clones se baseiam no dano do jogador.
+tagSkillSpellThiefName01S1=Elemental Blades
+tagSkillSpellThiefName01S2=Shadow Elemental Strike
+tagSkillSpellThiefName01S3=Elemental Nova
+
+#Elemental Nova
+tagSkillSpellThiefName02=Elemental Nova
+tagSkillSpellThiefDesc02=Atinge vários inimigos em um raio com dano elemental e de vitalidade.
+tagSkillSpellThiefName02T=Intense Nova
+tagSkillSpellThiefDesc02T=Aumenta consideravelmente o dano, mas adiciona um tempo de recarga.
+tagSkillSpellThiefName02A=Elemental Effects Nova
+tagSkillSpellThiefDesc02A=Adiciona dano por duração elemental.
+
+#Allostria Step
+tagSkillSpellThiefName03=Allostria Step
+tagSkillSpellThiefDesc03=Investe com muita velocidade utilizando o passo de Allostria.
+tagSkillSpellThiefName03A=Allostria Step Effects
+tagSkillSpellThiefDesc03A=Causa dano de duração elemental.
+tagSkillSpellThiefName03B=Allostria Step Vitality Effects
+tagSkillSpellThiefDesc03B=Passa a roubar a vida dos inimigos e causar danos à vitalidade por duração.
+tagSkillSpellThiefName03C=Allostria Step Critical Strike
+tagSkillSpellThiefDesc03C=Aumenta o dano e diminui o tempo de recarga.
+
+#Allostria Strike's
+tagSkillSpellThiefName04=Allostria Strike's
+tagSkillSpellThiefDesc04=Ataque elemental de Allostria com armas de curta distância.{^n}^o Requer armas de corpo a corpo.
+tagSkillSpellThiefName04A=Allostria Strike's Effects 
+tagSkillSpellThiefDesc04A=Adiona dano elemental por duração.
+tagSkillSpellThiefName04B=Allostria Strike's II
+tagSkillSpellThiefDesc04B=Leve Allostria Strike's II para o segundo nível de aprimoramento.
+
+#Allostria Link
+tagSkillSpellThiefName05=Allostria link
+tagSkillSpellThiefDesc05=Inimigos linkados sofrem danos de duração e diminuição de resistências.
+
+#Allostria knifes
+tagSkillSpellThiefName06=Allostria Knifes
+tagSkillSpellThiefDesc06=Tècnica de Allostria que arremesa facas elementais nos alvos.
+tagSkillSpellThiefName06T=Frenetic Knifes
+tagSkillSpellThiefDesc06T=Retira o tempo de recarga mas diminui o dano.
+tagSkillSpellThiefName06A=Allostria Knifes Passive I
+tagSkillSpellThiefDesc06A=Agora passa a infligir danos de vitalidade nos inimigos.
+tagSkillSpellThiefName06B=Allostria Knifes Passive II
+tagSkillSpellThiefDesc06B=Adiciona danos elementais por duração.
+
+#Allostria Orbes
+tagSkillSpellThiefName07=Allostria Orbes
+tagSkillSpellThiefDesc07=Orbes de elemento giram em torno de você.
+
+#Allostria Dual Blades
+tagSkillSpellThiefName08=Allostria Dual Blades
+tagSkillSpellThiefDesc08=Técnica que permite a utilização de duas armas corpo a corpo.{^n}^o Permite usar duas armas corpo a corpo.
+
+#Concentration
+tagSkillSpellThiefName09=Concentration
+tagSkillSpellThiefDesc09=Aumenta sua habilidade ofensiva e danos elementais e de vitalidade.
+
+#Elemental bolts
+tagSkillSpellThiefName10=Elemental bolts
+tagSkillSpellThiefDesc10=Ao ser atingido raios elementais atingem os inimigos.
+
+#Allostria Shield
+tagSkillSpellThiefName11=Allostria Shield
+tagSkillSpellThiefDesc11=Escudo de energia que protege contra danos elementais.
+tagSkillSpellThiefName11A=Shield Elemental Effects
+tagSkillSpellThiefDesc11A=Protege contra danos elementais de duração e rouba energia de magias dos inimigos.
+
+#Preparation
+tagSkillSpellThiefName12=Preparation
+tagSkillSpellThiefDesc12=Aumenta suas resistências.
+
+#Allostria Power
+tagSkillSpellThiefName13=Allostria Power
+tagSkillSpellThiefDesc13=Habilidade que te especializa nas técnicas de Allostria.

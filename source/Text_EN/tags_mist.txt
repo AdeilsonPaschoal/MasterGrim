@@ -1,0 +1,2 @@
+tagCaixaDrop=Caixa de drop
+tagCaixaDropSkill=Abrir Caixas

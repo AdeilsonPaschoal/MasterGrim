@@ -81,3 +81,22 @@ tagSkillClassName1115=Forest Keeper
 tagSkillClassName1215=Trapper
 tagSkillClassName1315=Cold forest
 tagSkillClassName1415=Chaotic Spring
+
+#Spellthief
+tagSkillClassNameSpellThief=Spellthief
+tagSkillClassDescriptionSpellThief=Especialistas em danos elementais, utilizam armas de corpo a corpo para eliminar os inimigos. Possuem também afinidades com dano de vitalidade, podendo assim derrubar os mais fortes dos inimigos.
+
+tagSkillClassName16=Spellthief
+tagSkillClassName0116=Elemental Warrior
+tagSkillClassName0216=Incinerator
+tagSkillClassName0316=Drinker
+tagSkillClassName0416=Thief
+tagSkillClassName0516=Elemental Mage
+tagSkillClassName0616=Enchanter 
+tagSkillClassName0716=Mage Elemental Hunter
+tagSkillClassName0816=Spectre
+tagSkillClassName1116=Elemental Priest
+tagSkillClassName1216=Elementalist Hunter
+tagSkillClassName1316=Elementalist
+tagSkillClassName1416=Unknown Heretic
+tagSkillClassName1516=Nature
