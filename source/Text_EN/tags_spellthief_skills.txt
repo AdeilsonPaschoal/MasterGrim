@@ -50,7 +50,7 @@ tagSkillSpellThiefDesc06B=Adiciona danos elementais por duração.
 
 #Allostria Orbes
 tagSkillSpellThiefName07=Allostria Orbes
-tagSkillSpellThiefDesc07=Orbes de elemento giram em torno de você.
+tagSkillSpellThiefDesc07=Orbes de elemento giram em torno de você.{^n}^o Precisa ser ativada para manter o efeito.
 
 #Allostria Dual Blades
 tagSkillSpellThiefName08=Allostria Dual Blades
@@ -62,7 +62,7 @@ tagSkillSpellThiefDesc09=Aumenta sua habilidade ofensiva e danos elementais e de
 
 #Elemental bolts
 tagSkillSpellThiefName10=Elemental bolts
-tagSkillSpellThiefDesc10=Ao ser atingido raios elementais atingem os inimigos.
+tagSkillSpellThiefDesc10=Ao ser atingido raios elementais atingem os inimigos.{^n}^o Precisa ser ativada para manter o efeito.
 
 #Allostria Shield
 tagSkillSpellThiefName11=Allostria Shield
