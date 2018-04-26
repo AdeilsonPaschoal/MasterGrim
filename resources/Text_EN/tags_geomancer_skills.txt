@@ -1,0 +1,79 @@
+tagClassGeomancerSkillName00=Geomancer
+tagClassGeomancerSkillDescription00=Caminho das pedras.
+
+#Stone Meteor
+tagSkillGeomancerSkillName01=Stone Meteor
+tagSkillGeomancerSkillDesc01=Rochas gigantescas caem sobre os inimigos.
+
+#Twister
+tagSkillGeomancerSkillName02=Twister
+tagSkillGeomancerSkillDesc02=Lança redemoinhos de dano fisico nos inimigos.
+tagSkillGeomancerSkillName02A=Twister's
+tagSkillGeomancerSkillDesc02A=Aumenta a quantidade de redemoinhos.
+tagSkillGeomancerSkillName02A=Twister Rocks
+tagSkillGeomancerSkillDesc02A=Fragmentos de rochas em volta dos redemoinhos aumentam o dano fisico do mesmo.
+
+#Geomancer Ground Stomp
+tagSkillGeomancerSkillName03=Geomancer Ground Stomp
+tagSkillGeomancerSkillDesc03=O Geomancer usa sua forção para criar uma abalo no solo que da dano fisico.
+tagSkillGeomancerSkillName03T=Intense Ground Stomp
+tagSkillGeomancerSkillDesc03T=Aumenta o dano mas também acrescenta tempo de recarga.
+tagSkillGeomancerSkillName03A=Internal Trauma Ground Stomp
+tagSkillGeomancerSkillDesc03A=Passa agora a dar dano por trauma interno.
+
+#Stone Prison
+tagSkillGeomancerSkillName04=Stone Prison
+tagSkillGeomancerSkillDesc04=Prisão de pedra que debilita os inimigos presos.
+
+#Geomancer Ground Tremor
+tagSkillGeomancerSkillName05=Geomancer Ground Tremor
+tagSkillGeomancerSkillDesc05=Tremo no chão que causa dano fisico e retarda inimigos atingidos.
+tagSkillGeomancerSkillName05A=Geomancer Ground Tremor Passive
+tagSkillGeomancerSkillDesc05A=Aumenta o dano do tremor e tem chance de petrificar os alvos.
+
+#Geomancer Wave
+tagSkillGeomancerSkillName06=Geomancer Wave
+tagSkillGeomancerSkillDesc06=Onda de pedra características dos Geomancer's.
+tagSkillGeomancerSkillName06T=Ground Wave Transmute
+tagSkillGeomancerSkillDesc06T=Retira o tempo de recarga mas diminui o dano.{^n}^o Requer armas de corpo a corpo de duas mãos.
+tagSkillGeomancerSkillName06A=Ground Wave Passive I
+tagSkillGeomancerSkillDesc06A=Adiciona dano por trauma interno e chance de petrificar os alvos.
+
+#Stone Spear
+tagSkillGeomancerSkillName07=Stone Spear
+tagSkillGeomancerSkillDesc07=Lanças de pedras que dão dano fisico.
+tagSkillGeomancerSkillName07T=Spear's
+tagSkillGeomancerSkillDesc07T=Aumenta a quantidade de lanças e agora as lanças atravessam os inimigos.
+tagSkillGeomancerSkillName07A=Stone Spear Passive I
+tagSkillGeomancerSkillDesc07A=Adiciona dano por trauma interno e critico.
+
+#Stona Attack
+tagSkillGeomancerSkillName08=Stone Attack
+tagSkillGeomancerSkillDesc08=Use sua arma corpo a corpo para utilizar uma explosão de pedra ao acertar.{^n}^o Requer armas de corpo a corpo.
+tagSkillGeomancerSkillName08A=Stone Attack Passive
+tagSkillGeomancerSkillDesc08A=Adiciona dano por trauma interno e aumenta o raio de ataque.
+
+#Hurricane
+tagSkillGeomancerSkillName09=Hurricane
+tagSkillGeomancerSkillDesc09=Ativa ao ser atingido, da dano fisico e diminui a resistência fisica dos inimigos.
+
+#Stone Spikes
+tagSkillGeomancerSkillName10=Stone Spikes
+tagSkillGeomancerSkillDesc10=Ativa ao atacar um inimigo, da dano fisico e por trauma interno.
+
+#Heavy Skin
+tagSkillGeomancerSkillName11=Heavy Skin
+tagSkillGeomancerSkillDesc11=Aumenta sua capacidade de retaliação fisica.
+
+#Protection of Stone
+tagSkillGeomancerSkillName12=Protection of Stone
+tagSkillGeomancerSkillDesc12=Aumenta o fisico e armadura.
+
+#Geomancer Resist
+tagSkillGeomancerSkillName12=Geomancer Resis
+tagSkillGeomancerSkillDesc12=Aumenta suas resistências fisicas.
+
+#Geomancer Power
+tagSkillGeomancerSkillName13=Geomancer Power
+tagSkillGeomancerSkillDesc13=Aumenta todo dano fisico e capacidade de retaliação fisica.
+
