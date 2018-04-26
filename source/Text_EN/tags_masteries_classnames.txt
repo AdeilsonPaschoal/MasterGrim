@@ -100,3 +100,23 @@ tagSkillClassName1216=Elementalist Hunter
 tagSkillClassName1316=Elementalist
 tagSkillClassName1416=Unknown Heretic
 tagSkillClassName1516=Nature
+
+#Geomancer
+tagSkillClassNameGeomancer=Geomancer
+tagSkillClassDescriptionGeomancer=Especialista em dano fisico, o Geomancer controla rochas para fortificar sua defesa e para atacar os inimigos com dano massivo.
+
+tagSkillClassName17=Geomancer
+tagSkillClassName0117=Stone Warrior
+tagSkillClassName0217=Stone Burning
+tagSkillClassName0317=Thermomancer
+tagSkillClassName0417=Stone Blade
+tagSkillClassName0517=Stone Mage
+tagSkillClassName0617=Wind Charmer
+tagSkillClassName0717=Fetisheater
+tagSkillClassName0817=Stonemancer
+tagSkillClassName1117=Heavenly
+tagSkillClassName1217=Stone Hunter
+tagSkillClassName1317=Geomancer of the Winter
+tagSkillClassName1417=Geomancer of the Void
+tagSkillClassName1517=Ancient Druid
+tagSkillClassName1617=Chronowitch
