@@ -55,11 +55,11 @@ tagSkillGeomancerSkillDesc08A=Adiciona dano por trauma interno e aumenta o raio 
 
 #Hurricane
 tagSkillGeomancerSkillName09=Hurricane
-tagSkillGeomancerSkillDesc09=Ativa ao ser atingido, da dano fisico e diminui a resistência fisica dos inimigos.
+tagSkillGeomancerSkillDesc09=Ativa ao atacar, da dano fisico e diminui a resistência fisica dos inimigos.{^n}^o Deve ser ativada para manter o efeito.
 
 #Stone Spikes
 tagSkillGeomancerSkillName10=Stone Spikes
-tagSkillGeomancerSkillDesc10=Ativa ao atacar um inimigo, da dano fisico e por trauma interno.
+tagSkillGeomancerSkillDesc10=Ativa ao ser atingido, da dano fisico e por trauma interno.{^n}^o Deve ser ativada para manter o efeito.
 
 #Heavy Skin
 tagSkillGeomancerSkillName11=Heavy Skin
