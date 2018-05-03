@@ -1,0 +1,81 @@
+tagClassWitchSkillName00=Witch
+tagClassWitchSkillDescription00=Bruxa de Cairn
+
+
+#Shadow Bolt
+tagSkillWitchName01=Shadow Bolt
+tagSkillWitchDesc01=Shadow Bolt que causa dano de aether e de porcentagem da arma.
+tagSkillWitchName01A=Shadow Bolt Chaos
+tagSkillWitchDesc01A=Adiciona dano de chaos.
+tagSkillWitchName01B=Shadow Bolt Vitality
+tagSkillWitchDesc01B=Adiciona dano de vitalidade.
+tagSkillWitchName01C=Shadow Bolt Curse
+tagSkillWitchDesc01C=Uma maldição é lançada nos inimigos quando atingidos.
+
+#Insanity
+tagSkillWitchName02=Insanity
+tagSkillWitchDesc02=Aumenta seu poder ofensivo por alguns segundos.
+tagSkillWitchName02T=Transmutador
+tagSkillWitchDesc02T=Aumenta ainda mais a capacidade ofensiva, porém diminui a capacidade defensiva.
+
+#Mark I
+tagSkillWitchName03=Mark I
+tagSkillWitchDesc03=Reduz a velocidade e o dano dos inimigos.
+tagSkillWitchName03T1=Transmutador I
+tagSkillWitchDesc03T1=A marca não retarda mais os inimigos, porém diminui ainda mais o dano deles.
+tagSkillWitchName03T2=Transmutador II
+tagSkillWitchDesc03T2=A marca não diminui mais o dano dos inimigos, porém aumenta a quantidade de redução de velocidade dos inimigos.
+
+#Mark II
+tagSkillWitchName04=Mark II
+tagSkillWitchDesc04=Diminui as resistências dos inimigos.
+tagSkillWitchName04A=Dark Explosion
+tagSkillWitchDesc04A=Inimigos sob o efeito da marca explodem ao morrer, causando dando em area.
+
+#Vitality Burn
+tagSkillWitchName05=Vitality Burn
+tagSkillWitchDesc05=Maldição que queima a vitalidade dos inimigos.
+tagSkillWitchName05A=Vitality Burn Passive I
+tagSkillWitchDesc05A=Acrescenta dano de chaos e diminui a defesa dos inimigos.
+tagSkillWitchName05B=Vitality Burn Passive II
+tagSkillWitchDesc05B=Aumenta o dano por vitalidade e tem chance de gerar confusão nos inimigos.
+
+#Confusion
+tagSkillWitchName06=Confusion
+tagSkillWitchDesc06=Converta um inimigo em seu aliado.
+
+#Shadow Pact
+tagSkillWitchName07=Shadow Pact
+tagSkillWitchDesc07=Energias obscuras te ajudam em combates.
+tagSkillWitchName07PetSkillName=Dark Schock
+
+#Explosives Zombies
+tagSkillWitchName08=Explosives Zombies
+tagSkillWitchDesc08=Zumbies caminha rapidamente e explodem ao serem mortos.
+tagSkillWitchName08T=Transmutador
+tagSkillWitchDesc08T=Convert o dano de sangramento para dano de vitalidade.
+tagSkillWitchName08A=Explosives Zombies Passive
+tagSkillWitchDesc08A=Aumenta o dano das explosões.
+
+#Revive
+tagSkillWitchName09=Revive
+tagSkillWitchDesco9=Invoque fantasmas para cada inimigo amaldiçoado morto.
+
+#Zombies Dog
+tagSkillWitchName10=Zombie Dog
+tagSkillWitchDesc10=Invoque cachorros zumbis para ajudalo em batalhas.
+tagSkillWitchName10A=Zombie Dog Passive I
+tagSkillWitchDesc10A=Aumenta o limite de cachorros.
+tagSkillWitchName10B=Zombie Dog Passive II
+tagSkillWitchDesc10B=Aumenta o dano e converte dano fisico para aether.
+tagSkillWitchName10PetSkill1=Mordida
+
+#Dark Raven
+tagSkillWitchName11=With Raven
+tagSkillWitchDesc12=Invoca um corco mágico para ajuda-lo em batalha.
+tagSkillWitchName11SkillPet=Dark Orb
+
+#Summon Dire
+tagSkillWitchName12=Summon Dire
+tagSkillWitchDesc12=Invoque uma criatura horrenda para ajuda-lo em batalha.
+tagSkillWitchName12PetSkill1=Ataque básico.
