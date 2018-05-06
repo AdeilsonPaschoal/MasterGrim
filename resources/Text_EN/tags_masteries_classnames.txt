@@ -120,3 +120,24 @@ tagSkillClassName1317=Geomancer of the Winter
 tagSkillClassName1417=Geomancer of the Void
 tagSkillClassName1517=Ancient Druid
 tagSkillClassName1617=Chronowitch
+
+#Witch
+tagSkillClassNameWitch=Witch
+tagSkillClassDescriptionWitch=Bruxa de cairn, seus feitiços de aether fundidos com chaos dão a ela capacidade de dizimar inimigos. A bruxa também possui afinidades com criaturas obscuras, podendo ajuda-la em batalha.
+
+tagSkillClassName18=Witch
+tagSkillClassName0118=Witchblade
+tagSkillClassName0218=Shadow Pistol
+tagSkillClassName0318=Dark Warlock
+tagSkillClassName0418=Contrawitch
+tagSkillClassName0518=Dark Magician
+tagSkillClassName0618=Soulcaller
+tagSkillClassName0718=Deathwitcher
+tagSkillClassName0818=Darkmancer
+tagSkillClassName1118=Crypt
+tagSkillClassName1218=Dark Hunter
+tagSkillClassName1318=Dark Sorcerer
+tagSkillClassName1418=Voidcaller
+tagSkillClassName1518=Dark Druid
+tagSkillClassName1618=Dark Thief
+tagSkillClassName1718=Dark Geomancer

@@ -1,0 +1,7 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,,
+petSkillName,records/skills/witch/pets/petskill_explosivezombie_bloodexplosion2.dbr,
+petChanges,,
+cooldownTime,,

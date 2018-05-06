@@ -42,28 +42,32 @@ tagSkillWitchDesc05B=Aumenta o dano por vitalidade e tem chance de gerar confus�
 
 #Confusion
 tagSkillWitchName06=Confusion
-tagSkillWitchDesc06=Converta um inimigo em seu aliado.
+tagSkillWitchDesc06=Converta um inimigo em seu aliado (70% de chance de controlar).
 
 #Shadow Pact
 tagSkillWitchName07=Shadow Pact
-tagSkillWitchDesc07=Energias obscuras te ajudam em combates.
+tagSkillWitchDesc07=Energias obscuras te ajudam em combates.^o Dano se baseia com o dano do jogador.
 tagSkillWitchName07PetSkillName=Dark Schock
 
 #Explosives Zombies
 tagSkillWitchName08=Explosives Zombies
-tagSkillWitchDesc08=Zumbies caminha rapidamente e explodem ao serem mortos.
+tagSkillWitchDesc08=Zumbies caminha rapidamente e explodem ao serem mortos.^o Dano se baseia com o dano do jogador.
 tagSkillWitchName08T=Transmutador
 tagSkillWitchDesc08T=Convert o dano de sangramento para dano de vitalidade.
 tagSkillWitchName08A=Explosives Zombies Passive
 tagSkillWitchDesc08A=Aumenta o dano das explosões.
+tagSkillWitchName08Skill=Explosão da morte
 
 #Revive
 tagSkillWitchName09=Revive
-tagSkillWitchDesco9=Invoque fantasmas para cada inimigo amaldiçoado morto.
+tagSkillWitchDesco9=Rouba a energia dos inimigos para invocar fantasmas aliados.^o Dano se baseia com o dano dos pets.
+tagSkillWitchName09PetName=Fantasma
+tagSkillWitchName09PetSkill1=Aetherbolt
 
 #Zombies Dog
 tagSkillWitchName10=Zombie Dog
-tagSkillWitchDesc10=Invoque cachorros zumbis para ajudalo em batalhas.
+tagSkillWitchDesc10=Invoque cachorros zumbis para ajudalo em batalhas.^o Dano se baseia com o dano dos pets.
+tagSkillWitchName10PetName=Zombie Dog
 tagSkillWitchName10A=Zombie Dog Passive I
 tagSkillWitchDesc10A=Aumenta o limite de cachorros.
 tagSkillWitchName10B=Zombie Dog Passive II
@@ -72,10 +76,19 @@ tagSkillWitchName10PetSkill1=Mordida
 
 #Dark Raven
 tagSkillWitchName11=With Raven
-tagSkillWitchDesc12=Invoca um corco mágico para ajuda-lo em batalha.
+tagSkillWitchDesc11=Invoca um corco mágico para ajuda-lo em batalha.
 tagSkillWitchName11SkillPet=Dark Orb
 
 #Summon Dire
 tagSkillWitchName12=Summon Dire
 tagSkillWitchDesc12=Invoque uma criatura horrenda para ajuda-lo em batalha.
 tagSkillWitchName12PetSkill1=Ataque básico.
+tagSkillWitchName12PetSkill2=Rage
+
+#Witch Order
+tagSkillWitchName13=Witch Orders
+tagSkillWitchDesc13=Assuma o poder da ordem das bruxas.
+
+#Witch Presence
+tagSkillWitchName14=Witch Presence
+tagSkillWitchDesc14=Suas criaturas ficam mais fortes com a sua presença.

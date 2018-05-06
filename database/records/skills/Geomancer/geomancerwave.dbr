@@ -25,7 +25,7 @@ skillConnectionOn,ui/skills/skillallocation/skills_connectoronbranchdown.tex;ui/
 isPetDisplayable,0,
 isPetBonusScaling,,
 trackerOverride,,
-skillTier,,
+skillTier,3,
 skillMasteryLevelRequired,,
 skillMaxLevel,16,
 skillSpecialAnimationName,Groundripper,
