@@ -3,7 +3,7 @@ tagClassSpellThiefSkillDescription00=Lãminas encatadas.
 
 #Clones
 tagSkillSpellThiefName01=Clones
-tagSkillSpellThiefDesc01=Invoca clones de Allostria.{^n}^o Os clones se baseiam no dano do jogador.
+tagSkillSpellThiefDesc01=Invoca clones de Allostria.^o Os clones se baseiam no dano do jogador.
 tagSkillSpellThiefName01S1=Elemental Blades
 tagSkillSpellThiefName01S2=Shadow Elemental Strike
 tagSkillSpellThiefName01S3=Elemental Nova
@@ -28,7 +28,7 @@ tagSkillSpellThiefDesc03C=Aumenta o dano e diminui o tempo de recarga.
 
 #Allostria Strike's
 tagSkillSpellThiefName04=Allostria Strike's
-tagSkillSpellThiefDesc04=Ataque elemental de Allostria com armas de curta distância.{^n}^o Requer armas de corpo a corpo.
+tagSkillSpellThiefDesc04=Ataque elemental de Allostria com armas de curta distância.^o Requer armas de corpo a corpo.
 tagSkillSpellThiefName04A=Allostria Strike's Effects 
 tagSkillSpellThiefDesc04A=Adiona dano elemental por duração.
 tagSkillSpellThiefName04B=Allostria Strike's II
@@ -50,11 +50,11 @@ tagSkillSpellThiefDesc06B=Adiciona danos elementais por duração.
 
 #Allostria Orbes
 tagSkillSpellThiefName07=Allostria Orbes
-tagSkillSpellThiefDesc07=Orbes de elemento giram em torno de você.{^n}^o Precisa ser ativada para manter o efeito.
+tagSkillSpellThiefDesc07=Orbes de elemento giram em torno de você.^o Precisa ser ativada para manter o efeito.
 
 #Allostria Dual Blades
 tagSkillSpellThiefName08=Allostria Dual Blades
-tagSkillSpellThiefDesc08=Técnica que permite a utilização de duas armas corpo a corpo.{^n}^o Permite usar duas armas corpo a corpo.
+tagSkillSpellThiefDesc08=Técnica que permite a utilização de duas armas corpo a corpo.^o Permite usar duas armas corpo a corpo.
 
 #Concentration
 tagSkillSpellThiefName09=Concentration
@@ -62,7 +62,7 @@ tagSkillSpellThiefDesc09=Aumenta sua habilidade ofensiva e danos elementais e de
 
 #Elemental bolts
 tagSkillSpellThiefName10=Elemental bolts
-tagSkillSpellThiefDesc10=Ao ser atingido raios elementais atingem os inimigos.{^n}^o Precisa ser ativada para manter o efeito.
+tagSkillSpellThiefDesc10=Ao ser atingido raios elementais atingem os inimigos.^o Precisa ser ativada para manter o efeito.
 
 #Allostria Shield
 tagSkillSpellThiefName11=Allostria Shield

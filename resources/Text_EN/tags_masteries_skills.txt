@@ -5,7 +5,7 @@ tagClassPriestSkillDescription00A=Na batalha a luz está em você.
 
 #Raio sagrado
 tagSkillPriestName01=Raio sagrado
-tagSkillPriestDesc01=Ataque seus inimigos com um raio de luz sagrada. {^n}^o Requer cetro.
+tagSkillPriestDesc01=Ataque seus inimigos com um raio de luz sagrada.^o Requer cetro.
 
 tagSkillPriestName01A=Conflagração
 tagSkillPriestDesc01A=Incinere seus inimigos atingidos pelo raio sagrado.
@@ -23,13 +23,13 @@ tagSkillPriestDesc02=Cegue seus inimigos em volta de ti.
 
 
 #Castigo dos ceus
-tagSkillPriestName03=Castido dos céus
+tagSkillPriestName03=Castigo dos céus
 tagSkillPriestDesc03=Rochas vindo dos céus caem sobre a terra dezimando os inimigos.
 
 
 #Cura divina
 tagSkillPriestName04=Cura divina
-tagSkillPriestDesc04=Cure você e seus aliados próximos com a cura divina. {^n}^o Requer foco.
+tagSkillPriestDesc04=Cure você e seus aliados próximos com a cura divina.^o Requer foco.
 
 #Toque de vida
 tagSkillPriestName05=Toque de vida
@@ -54,11 +54,11 @@ tagSkillPriestDesc07=O espelho sagrado irá devolver todo o mal a quem te fere.
 
 #Proteção divina
 tagSkillPriestName08=Proteção divina
-tagSkillPriestDesc08=Proteja-se contra os males usando sua energia vital como fé. {^n}^o Requer foco ou cetro.
+tagSkillPriestDesc08=Proteja-se contra os males usando sua energia vital como fé.^o Requer foco ou cetro.
 
 #Benção de mara
 tagSkillPriestName09=Benção de Mara
-tagSkillPriestDesc09=Nas dificuldades você será amparado. o^Requer foco ou cetro
+tagSkillPriestDesc09=Nas dificuldades você será amparado.^o Requer foco ou cetro
 
 #Segunda chance
 tagSkillPriestName10=Segunda chance
@@ -96,7 +96,7 @@ tagSkillHunterDesc01=Invoque uma chuva de dardos sob seus inimigos.
 
 #Dardos multiplos
 tagSkillHunterName02=Dardos múltiplos
-tagSkillHunterDesc02=Técnica de lançar vários dardos de uma só vez, eliminando vários inimigos simultaneamente. {^n}^o Requer arma a distância de duas mão.
+tagSkillHunterDesc02=Técnica de lançar vários dardos de uma só vez, eliminando vários inimigos simultaneamente.^o Requer arma a distância de duas mão.
 tagSkillHunterName02T=Dardos ácidos.
 tagSkillHunterDesc02T=Converta o dano de piercing para ácido.
 tagSkillHunterName02A=Dardos sangrentos.
@@ -110,7 +110,7 @@ tagSkillHunterDesc02D=O dardo é lançado com tamanha força que o impacto a um 
 
 #Dardos dispersores
 tagSkillHunterName03=Dardos dispersores
-tagSkillHunterDesc03=Os dardos se dividem ao acertar um inimigo, atingindo assim os demais inimigos próximos. {^n}^o Requer arma a distância.
+tagSkillHunterDesc03=Os dardos se dividem ao acertar um inimigo, atingindo assim os demais inimigos próximos.^o Requer arma a distância.
 tagSkillHunterName03A=Dardo de ferro
 tagSkillHunterDesc03A=Dardo pesado de ferro atinge o inimigo.
 tagSkillHunterName03B=Dardo envenenado
@@ -122,7 +122,7 @@ tagSkillHunterDesc03D=Dardos de sanguem atingem seus inimigos.
 
 #Dardo de ácido explosivo
 tagSkillHunterName04=Dardo de ácido explosivo.
-tagSkillHunterDesc04=Lança um dardo com uma bomba de veneno acoplada que explode ao atingir um inimigo. {^n}^o  Requer arma a distância.
+tagSkillHunterDesc04=Lança um dardo com uma bomba de veneno acoplada que explode ao atingir um inimigo.^o  Requer arma a distância.
 tagSkillHunterName04A=Veneno intenso.
 tagSkillHunterDesc04A=Aumenta a intensidade da bomba de veneno.
 
@@ -138,7 +138,7 @@ tagSkillHunterDesc06=Use veneno em suas caçadas.
 
 #Dardos rápidos
 tagSkillHunterName07=Dardos rápidos
-tagSkillHunterDesc07=Aumente a velocidade com o qual dispara os dardos. {^n}^o  Requer arma a distância.
+tagSkillHunterDesc07=Aumente a velocidade com o qual dispara os dardos.^o  Requer arma a distância.
 
 #Poison ranged orb
 tagSkillHunterName08=Poison orb
@@ -176,7 +176,7 @@ tagSkillHunterDesc14=O caçador deve saber a hora de fugir.
 
 #Lobo de caçadas
 tagSkillHunterName15=Lobo de caçadas
-tagSkillHunterDesc15=Lobo astuto que te ajuda nas caçadas. {^n}^o Escala com o dano de pets.
+tagSkillHunterDesc15=Lobo astuto que te ajuda nas caçadas.^o Escala com o dano de pets.
 tagSkillHunterName15A=Garras de sangue
 tagSkillHunterDesc15A=Seus lobo causa sangramento nos inimigos com suas garras.
 tagSkillHunterName15B=Huivo
@@ -218,7 +218,7 @@ tagSkillFrostSorcererDesc01B=Aumenta a quantidade de orbes lançadas e aumenta o
 
 #Ataque gélido
 tagSkillFrostSorcererName02=Ataque gélido
-tagSkillFrostSorcererDesc02=Encante seu equipamento de ataque com poder gélido. {^n}^o Usada como ataque de armas padrão.
+tagSkillFrostSorcererDesc02=Encante seu equipamento de ataque com poder gélido.^o Usada como ataque de armas padrão.
 tagSkillFrostSorcererName02A=Gelo explosivo
 tagSkillFrostSorcererDesc02A=Aumenta a area de impacto de seus ataques e inflinge dano de queimadura de gelo.
 tagSkillFrostSorcererName02B=Ataques congelantes
@@ -226,7 +226,7 @@ tagSkillFrostSorcererDesc02B=Aumenta o dano de queimadura de gelo, retarda os at
 tagSkillFrostSorcererName02C=Ataques fisicos
 tagSkillFrostSorcererDesc02C=Converta parte de seu dano gélido para dano fisico. Chance de jogar alvo longe.
 tagSkillFrostSorcererName02D=Estacas de gelo
-tagSkillFrostSorcererDesc02D=Ao acertar com armas à distância estacas de gelo saem do seu alvo. {^}^o Somente armas à distância.
+tagSkillFrostSorcererDesc02D=Ao acertar com armas à distância estacas de gelo saem do seu alvo.^o Somente armas à distância.
 tagSkillFrostSorcererName02T=Transmutador - Armas de duas mão
 tagSkillFrostSorcererDesc02T=Transmutador para armas de duas mão.
 tagSkillFrostSorcererName02T2=Transmutador - Armas de uma mão
@@ -246,7 +246,7 @@ tagSkillFrostSorcererDesc04=Chuva de espinhos de gelo em grande área atingem os
 
 #Abominação das neves
 tagSkillFrostSorcererName05=Abominação das neves
-tagSkillFrostSorcererDesc05=Invoque um monstro de gelo para lutar ao seu lado. {^n}^o Escala com o dano de pets.
+tagSkillFrostSorcererDesc05=Invoque um monstro de gelo para lutar ao seu lado.^o Escala com o dano de pets.
 tagSkillFrostSorcererName05A=Espinhos de gelo
 tagSkillFrostSorcererDesc05A=A abominação solta espinhos de gelo do solo que atingem e chamam a atenção dos inimigos.
 tagSkillFrostSorcererName05B=Garra congelante
@@ -270,7 +270,7 @@ tagSkillFrostSorcererDesc07A=Uma nova de gelo que da dano de queimadura de gelo 
 
 #Auta congelantes
 tagSkillFrostSorcererName08=Aura congelante
-tagSkillFrostSorcererDesc08=Aura que inflinge dano de queimadura de gelo nos inimigos e causa lentidão.{^n}^o Essa skill deve ser ativada para manter seu efeito.
+tagSkillFrostSorcererDesc08=Aura que inflinge dano de queimadura de gelo nos inimigos e causa lentidão.^o Essa skill deve ser ativada para manter seu efeito.
 
 #Geleira
 tagSkillFrostSorcererName09=Geleira
@@ -278,7 +278,7 @@ tagSkillFrostSorcererDesc09=Aumenta seu dano de queimadura de gelo mas perde em 
 
 #Nova de gelo
 tagSkillFrostSorcererName10=Nova de gelo
-tagSkillFrostSorcererDesc10=Ao ser atingido uma nova de gelo congela seus inimigos. {^n}^o Essa skill deve ser ativada para manter seu efeito.
+tagSkillFrostSorcererDesc10=Ao ser atingido uma nova de gelo congela seus inimigos.^o Essa skill deve ser ativada para manter seu efeito.
 
 #Proteção do inverno
 tagSkillFrostSorcererName11=Proteção de inverno

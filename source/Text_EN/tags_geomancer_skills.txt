@@ -35,7 +35,7 @@ tagSkillGeomancerSkillDesc05A=Aumenta o dano do tremor e tem chance de petrifica
 tagSkillGeomancerSkillName06=Geomancer Wave
 tagSkillGeomancerSkillDesc06=Onda de pedra características dos Geomancer's.
 tagSkillGeomancerSkillName06T=Ground Wave Transmute
-tagSkillGeomancerSkillDesc06T=Retira o tempo de recarga mas diminui o dano.{^n}^o Requer armas de corpo a corpo de duas mãos.
+tagSkillGeomancerSkillDesc06T=Retira o tempo de recarga mas diminui o dano.^o Requer armas de corpo a corpo de duas mãos.
 tagSkillGeomancerSkillName06A=Ground Wave Passive I
 tagSkillGeomancerSkillDesc06A=Adiciona dano por trauma interno e chance de petrificar os alvos.
 
@@ -49,17 +49,17 @@ tagSkillGeomancerSkillDesc07A=Adiciona dano por trauma interno e critico.
 
 #Stona Attack
 tagSkillGeomancerSkillName08=Stone Attack
-tagSkillGeomancerSkillDesc08=Use sua arma corpo a corpo para utilizar uma explosão de pedra ao acertar.{^n}^o Requer armas de corpo a corpo.
+tagSkillGeomancerSkillDesc08=Use sua arma corpo a corpo para utilizar uma explosão de pedra ao acertar.^o Requer armas de corpo a corpo.
 tagSkillGeomancerSkillName08A=Stone Attack Passive
 tagSkillGeomancerSkillDesc08A=Adiciona dano por trauma interno e aumenta o raio de ataque.
 
 #Hurricane
 tagSkillGeomancerSkillName09=Hurricane
-tagSkillGeomancerSkillDesc09=Ativa ao atacar, da dano fisico e diminui a resistência fisica dos inimigos.{^n}^o Deve ser ativada para manter o efeito.
+tagSkillGeomancerSkillDesc09=Ativa ao atacar, da dano fisico e diminui a resistência fisica dos inimigos.^o Deve ser ativada para manter o efeito.
 
 #Stone Spikes
 tagSkillGeomancerSkillName10=Stone Spikes
-tagSkillGeomancerSkillDesc10=Ativa ao ser atingido, da dano fisico e por trauma interno.{^n}^o Deve ser ativada para manter o efeito.
+tagSkillGeomancerSkillDesc10=Ativa ao ser atingido, da dano fisico e por trauma interno.^o Deve ser ativada para manter o efeito.
 
 #Heavy Skin
 tagSkillGeomancerSkillName11=Heavy Skin

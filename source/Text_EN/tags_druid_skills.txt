@@ -46,19 +46,19 @@ tagSkillDruidDesc07=Use a ira dos seus animais para destruir os inimigos.
 
 #Wolf Shape
 tagSkillDruidName08=Wolf Shape
-tagSkillDruidDesc08=Use o poder do lobo para ganhar velocidade e perfuração.{^n}^o Requer a habilidade Wolf Path
+tagSkillDruidDesc08=Use o poder do lobo para ganhar velocidade e perfuração.^o Requer a habilidade Wolf Path
 
 #Bear Shape
 tagSkillDruidName09=Bear Shape
-tagSkillDruidDesc09=Use o poder do urso para ganhar resistências e solidez nos combates.{^n}^o Requer a habilidade Bear Path
+tagSkillDruidDesc09=Use o poder do urso para ganhar resistências e solidez nos combates.^o Requer a habilidade Bear Path
 
 #Viper Shape
 tagSkillDruidName10=Viper Shape
-tagSkillDruidDesc10=Use o poder da víbora para acertos críticos e danos venenosos.{^n}^o Requer a habilidade Viper Path
+tagSkillDruidDesc10=Use o poder da víbora para acertos críticos e danos venenosos.^o Requer a habilidade Viper Path
 
 #Forest Essence
 tagSkillDruidName11=Forest Essence
-tagSkillDruidDesc11=Use o poder da floresta para aumenta a vida e cura.{^n}^o Requer a habilidade Forest Path.
+tagSkillDruidDesc11=Use o poder da floresta para aumenta a vida e cura.^o Requer a habilidade Forest Path.
 
 #Natural Resistance
 tagSkillDruidName12=Natural Resistances
@@ -84,7 +84,7 @@ tagSkillDruidDesc16=Assuma o controle das florestas, aumenta sua vida e espirít
 tagSkillDruidName17=Stone Guardian
 tagSkillDruidDesc17=Invoque o guardião de pedra da floresta.
 tagSkillDruidName17T=Transmutador
-tagSkillDruidDesc17T=Aumenta o limite de invocações mas diminui seus atributos básicos.{^n}^o Requer a habilidade Bear Path.
+tagSkillDruidDesc17T=Aumenta o limite de invocações mas diminui seus atributos básicos.^o Requer a habilidade Bear Path.
 tagSkillDruidName17S1=Stone Strike
 tagSkillDruidName17S2=Tremor
 
@@ -92,7 +92,7 @@ tagSkillDruidName17S2=Tremor
 tagSkillDruidName18=Wild Wolf
 tagSkillDruidDesc18=Invoque o lobo selvagem da floresta.
 tagSkillDruidName18T=Transmutador
-tagSkillDruidDesc18T=Aumenta o limite de invocações mas diminui seus atributos básicos.{^n}^o Requer a habilidade Wolf Path.
+tagSkillDruidDesc18T=Aumenta o limite de invocações mas diminui seus atributos básicos.^o Requer a habilidade Wolf Path.
 tagSkillDruidName18S1=Claw
 tagSkillDruidName18S2=Bleeding Claw
 
@@ -100,7 +100,7 @@ tagSkillDruidName18S2=Bleeding Claw
 tagSkillDruidName19=Poison Rat
 tagSkillDruidDesc19=Invoque o rato espinhoso de veneno da floresta.
 tagSkillDruidName19T=Transmutador
-tagSkillDruidDesc19T=Aumenta o limite de invocações mas diminui seus atributos básicos.{^n}^o Requer a habilidade Viper Path.
+tagSkillDruidDesc19T=Aumenta o limite de invocações mas diminui seus atributos básicos.^o Requer a habilidade Viper Path.
 tagSkillDruidName19S1=Poisonous Bite
 tagSkillDruidName19S2=Poison aura
 tagSkillDruidName19S2=Spine attack
@@ -109,7 +109,7 @@ tagSkillDruidName19S2=Spine attack
 tagSkillDruidName20=Live tree
 tagSkillDruidDesc20=Invoque a árvore viva entrada no centro da floresta.
 tagSkillDruidName20T=Transmutador
-tagSkillDruidDesc20T=Aumenta o limite de invocações mas diminui seus atributos básicos.{^n}^o Requer a habilidade Forest Path.
+tagSkillDruidDesc20T=Aumenta o limite de invocações mas diminui seus atributos básicos.^o Requer a habilidade Forest Path.
 tagSkillDruidName20S1=Stroke
 tagSkillDruidName20S2=Wave
 tagSkillDruidName20S3=Regenerative root
