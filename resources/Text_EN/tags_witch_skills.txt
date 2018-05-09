@@ -11,6 +11,8 @@ tagSkillWitchName01B=Shadow Bolt Vitality
 tagSkillWitchDesc01B=Adiciona dano de vitalidade.
 tagSkillWitchName01C=Shadow Bolt Curse
 tagSkillWitchDesc01C=Uma maldição é lançada nos inimigos quando atingidos.
+tagSkillWitchName01T=Transmutador
+tagSkillWitchDesc01T=Converte para dano de aether.
 
 #Insanity
 tagSkillWitchName02=Insanity
@@ -91,4 +93,4 @@ tagSkillWitchDesc13=Assuma o poder da ordem das bruxas.
 
 #Witch Presence
 tagSkillWitchName14=Witch Presence
-tagSkillWitchDesc13=Suas criaturas ficam mais fortes com a sua presença.
+tagSkillWitchDesc14=Suas criaturas ficam mais fortes com a sua presença.

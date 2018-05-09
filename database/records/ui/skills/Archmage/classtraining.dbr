@@ -1,0 +1,7 @@
+templateName,database/templates/ingameui/skillbutton.tpl,
+FileDescription,Updated with WanezToolsGD - 06/05/2018 03:43 pm,
+soundNameDown,records/sounds/ui/spak_buttonskillmasteryincrement.dbr,
+isCircular,1,
+bitmapPositionX,157,
+bitmapPositionY,502,
+skillName,records/skills/Archmage/_classtraining_class19.dbr,

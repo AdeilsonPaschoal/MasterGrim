@@ -123,7 +123,7 @@ tagSkillClassName1617=Chronowitch
 
 #Witch
 tagSkillClassNameWitch=Witch
-tagSkillClassDescriptionWitch=Bruxa de cairn, seus feitiços de aether fundidos com chaos dão a ela capacidade de dizimar inimigos. A bruxa também possui afinidades com criaturas obscuras, podendo ajuda-la em batalha.
+tagSkillClassDescriptionWitch=Bruxa de Cairn, seus feitiços de aether fundidos com chaos dão a ela capacidade de dizimar inimigos. A bruxa também possui afinidades com criaturas obscuras, podendo ajuda-la em batalha.
 
 tagSkillClassName18=Witch
 tagSkillClassName0118=Witchblade
@@ -141,3 +141,25 @@ tagSkillClassName1418=Voidcaller
 tagSkillClassName1518=Dark Druid
 tagSkillClassName1618=Dark Thief
 tagSkillClassName1718=Dark Geomancer
+
+#Archmage
+tagSkillClassNameArchamge=Archmage
+tagSkillClassDescriptionArchmage=Mago de destruição especialista em fogo e raio. Manipula os elementos de fogo e raio para eliminar as criaturas etéras e ctônicas de Cairn.
+
+tagSkillClassName19=Archmage
+tagSkillClassName0119=Warmage
+tagSkillClassName0219=Diabolist
+tagSkillClassName0319=Hellreaver
+tagSkillClassName0419=Spellsword
+tagSkillClassName0519=Paragon
+tagSkillClassName0619=Totemist
+tagSkillClassName0719=Runecaster
+tagSkillClassName0819=Spellcaster
+tagSkillClassName1119=Angel
+tagSkillClassName1219=Magehunter
+tagSkillClassName1319=White Mage
+tagSkillClassName1419=Deathwitcher
+tagSkillClassName1519=Lithomage
+tagSkillClassName1619=Spelldancer
+tagSkillClassName1719=Charmer
+tagSkillClassName1819=Exorcist

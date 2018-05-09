@@ -11,6 +11,8 @@ tagSkillWitchName01B=Shadow Bolt Vitality
 tagSkillWitchDesc01B=Adiciona dano de vitalidade.
 tagSkillWitchName01C=Shadow Bolt Curse
 tagSkillWitchDesc01C=Uma maldição é lançada nos inimigos quando atingidos.
+tagSkillWitchName01T=Transmutador
+tagSkillWitchDesc01T=Converte para dano de aether.
 
 #Insanity
 tagSkillWitchName02=Insanity

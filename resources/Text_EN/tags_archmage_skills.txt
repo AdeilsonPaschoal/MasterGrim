@@ -1,0 +1,97 @@
+tagClassArchmageSkillName00=Archmage
+tagClassArchamgeSkillDescription00=Mago supremo da destruição.
+
+#Fireball
+tagSkillArchmageName01=Fireball
+tagSkillArchmageDesc01=Lança uma bola de fogo que explode ao contato.
+tagSkillArchmageName01T=Transmuter
+tagSkillArchmageDesc01T=Diminui o raio de explosão e o dano, porém aumenta o número de Fireball lançadas.
+tagSkillArchmageName01A=Fireball Burn Damage
+tagSkillArchmageDesc01A=Adiciona critico e dano de queimadura.
+tagSkillArchmageName01B=Fireball Passive I
+tagSkillArchmageDesc01B=Aumenta o dano da fireball.
+
+#Eletrocution
+tagSkillArchmageName02=Eletrocution
+tagSkillArchmageDesc02=Descargas elétricas que espalham entre os inimigos.
+tagSkillArchmageName02A=Eletrocution Passive I
+tagSkillArchmageDesc02A=Aumenta o número de inimigos atingidos e adiciona dano critico.
+tagSkillArchmageName02B=Eletrocution Passive II
+tagSkillArchmageDesc02B=Aumenta o dano elétrico.
+
+#Meteors
+tagSkillArchmageName03=Meteors
+tagSkillArchmageDesc03=Pedras em chamas de grande dano de fogo.
+
+#Magical Weapons Fire
+tagSkillArchmageName04=Magical Weapons Fire
+tagSkillArchmageDesc04=Encante suas armas com dano de fogo.
+
+#Magical Weapons Lightning
+tagSkillArchmageName05=Magical Weapons Lightning
+tagSkillArchmageDesc05=Encante suas armas com dano elétrico.
+
+#Archmage Lightning Bolt
+tagSkillArchmageName06=Archmage Lightning Bolt
+tagSkillArchmageDesc06=Raio com alto poder destrutivo.
+tagSkillArchmageName06T=Transmuter
+tagSkillArchmageDesc06T=Converte para dano de fogo.
+
+#Rune Explosion
+tagSkillArchmageName07=Rune Explosion
+tagSkillArchmageDesc07=Runa explosiva de fogo.
+tagSkillArchmageName07T=Rune Explosion Lightning
+tagSkillArchmageDesc07T=Converte para runa explosiva elétrica.
+tagSkillArchmageName07A=Rune Explosion Burn
+tagSkillArchmageDesc07A=Aumenta o dano de fogo e por queimadura.
+
+#Flames
+tagSkillArchmageName08=Flames
+tagSkillArchmageDesc08=Queima inimigos atingindos.
+tagSkillArchmageName08A=Flames Passive
+tagSkillArchmageDesc08A=Aumenta o dano de fogo e por queimadura.
+
+#Ring fireball
+tagSkillArchmageName09=Ring Fireball
+tagSkillArchmageDesc09=Ao ser atingido bolas de fogos atingem os inimigos em volta.^o Precisa ser ativada para manter o efeito.
+
+#Ring of flame
+tagSkillArchmageName10=Archmage Ring of Flames
+tagSkillArchmageDesc10=Anel de chamas em volta de você queima inimigos próximos.
+tagSkillArchmageName10T=Archmage Ring of Lightning
+tagSkillArchmageDesc10T=Anel elétrico em volta de você eletrocuta inimigos próximos.
+
+#Fire totem
+tagSkillArchmageName11=Fire Totem.^o Baseado no dano do player.
+tagSkillArchmageDesc11=Totem de fogo que lança ondas de chamas nos inimigos.
+tagSkillArchmageName11SkillTotem=Fire Wave
+
+#Fire Spirit
+tagSkillArchmageName12=Fire Spirit.^o Baseado no dano do player.
+tagSkillArchmageDesc12=Espiritos de fogo que queimam os inimigos e explodem causando dano de fogo e por queimadura.
+tagSkillArchmageName12Skill1=Burning Presence
+tagSkillArchmageName12Skill2=Detonate
+tagSkillArchmageName12T=Transmuter
+tagSkillArchmageDesc12T=Converte pra dano elétrico.
+
+#Archmage Sense
+tagSkillArchmageName13=Archmage Sense
+tagSkillArchmageDesc13=Aumenta capacidade ofensiva e velocidade de lançamento de magias.
+
+#Archmage Sense II
+tagSkillArchmageName14=Archmage Sense II
+tagSkillArchmageDesc14=Aumenta a energia e critico.
+
+#Flame Rotation
+tagSkillArchmageName15=Flame Rotation.
+tagSkillArchmageDesc15=Simbolos de fogo orbitam e queimam inimigos quando você é atingido.
+tagSkillArchmageName15T=Transmuter
+tagSkillArchmageDesc15T=Converte para dano elétrico.
+
+#Magic Heal
+tagSkillArchmageName16=Magic Heal
+tagSkillArchmageDesc16=Use parte da sua energia para se curar.
+
+#Archmage Power
+tagSkillArchmageName17=Archmage's Power
+tagSkillArchmageDesc17=Use o poder destrutivo de fogo e raio dos arquimagos.
