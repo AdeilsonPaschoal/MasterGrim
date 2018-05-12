@@ -62,8 +62,8 @@ tagSkillArchmageName10T=Archmage Ring of Lightning
 tagSkillArchmageDesc10T=Anel elétrico em volta de você eletrocuta inimigos próximos.
 
 #Fire totem
-tagSkillArchmageName11=Fire Totem.^o Baseado no dano do player.
-tagSkillArchmageDesc11=Totem de fogo que lança ondas de chamas nos inimigos.
+tagSkillArchmageName11=Fire Totem.
+tagSkillArchmageDesc11=Totem de fogo que lança ondas de chamas nos inimigos.^o Baseado no dano do player.
 tagSkillArchmageName11SkillTotem=Fire Wave
 
 #Fire Spirit

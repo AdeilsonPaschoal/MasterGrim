@@ -9,7 +9,7 @@ bitmapNameDisabled,ui/skills/classselection/skills_buttonclassselectiondisabled0
 soundNameUp,,
 soundNameDown,records/sounds/ui/spak_buttonclickgenericlarge.dbr,
 isCircular,0,
-bitmapPositionX,25,
+bitmapPositionX,55,
 bitmapPositionY,22,
 rolloverStyleName,,
 textStyleName,,
