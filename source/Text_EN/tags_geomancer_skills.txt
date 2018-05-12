@@ -70,8 +70,8 @@ tagSkillGeomancerSkillName12=Protection of Stone
 tagSkillGeomancerSkillDesc12=Aumenta o fisico e armadura.
 
 #Geomancer Resist
-tagSkillGeomancerSkillName12=Geomancer Resis
-tagSkillGeomancerSkillDesc12=Aumenta suas resistências fisicas.
+tagSkillGeomancerSkillName14=Geomancer Resis
+tagSkillGeomancerSkillDesc14=Aumenta suas resistências fisicas.
 
 #Geomancer Power
 tagSkillGeomancerSkillName13=Geomancer Power
