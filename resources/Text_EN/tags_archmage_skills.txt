@@ -67,8 +67,8 @@ tagSkillArchmageDesc11=Totem de fogo que lança ondas de chamas nos inimigos.
 tagSkillArchmageName11SkillTotem=Fire Wave
 
 #Fire Spirit
-tagSkillArchmageName12=Fire Spirit.^o Baseado no dano do player.
-tagSkillArchmageDesc12=Espiritos de fogo que queimam os inimigos e explodem causando dano de fogo e por queimadura.
+tagSkillArchmageName12=Fire Spirit.
+tagSkillArchmageDesc12=Espiritos de fogo que queimam os inimigos e explodem causando dano de fogo e por queimadura.^o Baseado no dano do player.
 tagSkillArchmageName12Skill1=Burning Presence
 tagSkillArchmageName12Skill2=Detonate
 tagSkillArchmageName12T=Transmuter
