@@ -15,7 +15,7 @@ skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skil
 isPetDisplayable,0,
 isPetBonusScaling,0,
 trackerOverride,,
-skillTier,4,
+skillTier,3,
 skillMasteryLevelRequired,0,
 skillMaxLevel,12,
 skillSpecialAnimationName,,
