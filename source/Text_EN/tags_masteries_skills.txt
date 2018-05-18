@@ -84,7 +84,38 @@ tagSkillPriestDesc14=Você recebe poder das divindades para punir os males.
 tagSkillPriestName15=Protetor divino
 tagSkillPriestDesc15=Você encarna a proteção divina.
 
+#Ato de bravura
+tagSkillPriestName16=Ato de Bravura
+tagSkillPriestDesc16=Provoca inimigos em volta reduzindo o dano deles e com chances de gerar confusão.
 
+#Benção da liberdade
+tagSkillPriestName17=Benção da liberdade
+tagSkillPriestDesc17=Concede imunidade a efeitos de controle além de aumentar a velocidade de movimento e de ataque temporariamente.
+
+#Machado Sagrado
+tagSkillPriestName18=Machado Sagrado
+tagSkillPriestDesc18=Arremesa um machado sagrado no inimigo que volta depois do impacto.
+
+#Escudo Sagrado
+tagSkillPriestName19=Escudo Sagrado
+tagSkillPriestDesc19=Aumenta a chance de bloquear ataque com o escudo.^o Deve ser ativada para manter o efeito.
+
+#Fogo Sagrado
+tagSkillPriestName20=Fogo Sagrado
+tagSkillPriestDesc20=Queima os inimigos atingidos com fogo sagrado.
+
+#Armas sagradas
+tagSkillPriestName21=Armas sagradas
+tagSkillPriestDesc21=Ataque sagrado que espalha raios entre os inimigos próximos.^o Requer arma corpo a corpo ou à distância.
+tagSkillPriestName21A=Passive I
+tagSkillPriestDesc21A=Aumenta o dano e a quantidade de inimigos atingidos.
+tagSkillPriestName21B=Passive II
+tagSkillPriestDesc21C=Aumenta o dano e chance de da stun.
+tagSkillPriestName21T=Transmuter
+tagSkillPriestDesc21T=Retira o tempo de recarga mas diminui o dano.
+
+#Nova sagrada
+tagSkillPriestName22=Nova Sagrada
 #-----------------------------------------------Hunter
 
 tagClassHunterSkillName00=Hunter
