@@ -60,6 +60,11 @@ tagSkillArchmageName10=Archmage Ring of Flames
 tagSkillArchmageDesc10=Anel de chamas em volta de você queima inimigos próximos.
 tagSkillArchmageName10T=Archmage Ring of Lightning
 tagSkillArchmageDesc10T=Anel elétrico em volta de você eletrocuta inimigos próximos.
+tagSkillArchmageName10A=Passive
+tagSkillArchmageDesc10A=Aumenta dano de queimadura e provoca retaliação de fogo.
+tagSkillArchmageName10B=Passive
+tagSkillArchmageDesc10B=Aumenta dano de eletrocussão e provoca retaliação de raio.
+
 
 #Fire totem
 tagSkillArchmageName11=Fire Totem.
@@ -73,6 +78,8 @@ tagSkillArchmageName12Skill1=Burning Presence
 tagSkillArchmageName12Skill2=Detonate
 tagSkillArchmageName12T=Transmuter
 tagSkillArchmageDesc12T=Converte pra dano elétrico.
+tagSkillArchmageName12A=Passive
+tagSkillArchmageDesc12A=Aumenta o poder de fogo.
 
 #Archmage Sense
 tagSkillArchmageName13=Archmage Sense
@@ -95,3 +102,7 @@ tagSkillArchmageDesc16=Use parte da sua energia para se curar.
 #Archmage Power
 tagSkillArchmageName17=Archmage's Power
 tagSkillArchmageDesc17=Use o poder destrutivo de fogo e raio dos arquimagos.
+
+#Lightning Rain
+tagSkillArchmageName18=Lightning Rain
+tagSkillArchmageDesc18=Chuva de orbes de raio cai sob os inimigos.
