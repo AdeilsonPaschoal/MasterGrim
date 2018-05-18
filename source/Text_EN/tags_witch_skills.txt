@@ -94,3 +94,21 @@ tagSkillWitchDesc13=Assuma o poder da ordem das bruxas.
 #Witch Presence
 tagSkillWitchName14=Witch Presence
 tagSkillWitchDesc14=Suas criaturas ficam mais fortes com a sua presença.
+
+#Aether Reaper Strike
+tagSkillWitchName15=Aether Reaper Strike
+tagSkillWitchDesc15=Ataque corpo a corpo imbuído com poder de aehter da bruxa.^o Requer armas corpo a corpo.
+tagSkillWitchName15A=Passive I
+tagSkillWitchDesc15A=Aumenta o poder de aether e adiciona dano por chaos.
+
+#Leech
+tagSkillWitchName16=Leech
+tagSkillWitchDesc16=Roube a essência dos inimigos.
+
+#Dark Power
+tagSkillWitchName17=Dark Power
+tagSkillWitchDesc17=Aumenta o pode obscura da Bruxa.^o Requer foco.
+
+#Dark Power II
+tagSkillWitchName18=Dark Power II
+tagSkillWitchDesc18=Aumenta o pode obscura da Bruxa.^o Requer cetro.
