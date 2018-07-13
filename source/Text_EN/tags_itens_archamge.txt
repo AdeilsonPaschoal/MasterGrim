@@ -1,0 +1,9 @@
+
+#======================================================================= SETS ======================================================
+
+#------- Conjunto mago de fogo --------------------------------
+tagItemArchmageSet1Name=Conjunto do mago de fogo
+tagItemArchmageSet1Desc=Conjunto lendário do guardião da fênix, manipulador de fogo.
+
+tagItemArchmageSet1Skill1Name=Fênix de fogo.
+tagItemArchmageSet1Skill1Desc=Fênix de fogo atravessam os inimigos causando dano de fogo.
