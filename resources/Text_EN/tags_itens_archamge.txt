@@ -17,9 +17,14 @@ tagItemArchmageSkill1Desc=Aumenta o controle e poder sob o elemento fogo.
 
 #Itens do set
 tagItemArchmageName1=Cetro de fogo
+tagItemArchmageName2=Elmo de fogo
+tagItemArchmageName3=Ombreira de fogo
+tagItemArchmageName4=Manto de fogo
 
 
 #------- Conjunto mago de fogo --------------------------------
+tagItemArchmageSet2Name=Conjunto do mago de raio
+tagItemArchmageSet2Desc=Conjunto lendário do guardião dos céus, manipulador de raio.
 
 # Set Skills
 tagItemArchmageSet1Skill2Name=Feiche de raio
@@ -28,3 +33,9 @@ tagItemArchmageSet1Skill2Desc=Feiches de raio caem sob os inimigos, eletrocutand
 #Itens Skills
 tagItemArchmageSkill2Name=Manto de raio
 tagItemArchmageSkill2Desc=Aumenta o controle e poder sob o elemento raio.
+
+#Itens do set
+tagItemArchmageName5=Cetro de raio
+tagItemArchmageName6=Elmo de raio
+tagItemArchmageName7=Ombreira de raio
+tagItemArchmageName8=Manto de raio
