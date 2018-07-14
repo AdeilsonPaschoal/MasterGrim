@@ -2,40 +2,40 @@
 #======================================================================= SETS ======================================================
 
 #------- Conjunto mago de fogo --------------------------------
-tagItemArchmageSet1Name=Conjunto do mago de fogo
+tagItemArchmageSet1Name=Conjunto do Mago de Fogo
 tagItemArchmageSet1Desc=Conjunto lendário do guardião da fênix, manipulador de fogo.
 
 
 # Set Skills
-tagItemArchmageSet1Skill1Name=Fênix de fogo
+tagItemArchmageSet1Skill1Name=Fênix de Fogo
 tagItemArchmageSet1Skill1Desc=Fênix de fogo atravessam os inimigos causando dano de fogo.
 
 #Itens Skills
-tagItemArchmageSkill1Name=Manto de fogo
+tagItemArchmageSkill1Name=Manto de Fogo
 tagItemArchmageSkill1Desc=Aumenta o controle e poder sob o elemento fogo.
 
 
 #Itens do set
-tagItemArchmageName1=Cetro de fogo
-tagItemArchmageName2=Elmo de fogo
-tagItemArchmageName3=Ombreira de fogo
-tagItemArchmageName4=Manto de fogo
+tagItemArchmageName1=Cetro de Fogo
+tagItemArchmageName2=Elmo de Fogo
+tagItemArchmageName3=Ombreira de Fogo
+tagItemArchmageName4=Manto de Fogo
 
 
 #------- Conjunto mago de fogo --------------------------------
-tagItemArchmageSet2Name=Conjunto do mago de raio
+tagItemArchmageSet2Name=Conjunto do Mago de Raio
 tagItemArchmageSet2Desc=Conjunto lendário do guardião dos céus, manipulador de raio.
 
 # Set Skills
-tagItemArchmageSet1Skill2Name=Feiche de raio
+tagItemArchmageSet1Skill2Name=Feiche de Raio
 tagItemArchmageSet1Skill2Desc=Feiches de raio caem sob os inimigos, eletrocutando-os.
 
 #Itens Skills
-tagItemArchmageSkill2Name=Manto de raio
+tagItemArchmageSkill2Name=Manto de Raio
 tagItemArchmageSkill2Desc=Aumenta o controle e poder sob o elemento raio.
 
 #Itens do set
-tagItemArchmageName5=Cetro de raio
-tagItemArchmageName6=Elmo de raio
-tagItemArchmageName7=Ombreira de raio
-tagItemArchmageName8=Manto de raio
+tagItemArchmageName5=Cetro de Raio
+tagItemArchmageName6=Elmo de Raio
+tagItemArchmageName7=Ombreira de Raio
+tagItemArchmageName8=Manto de Raio
