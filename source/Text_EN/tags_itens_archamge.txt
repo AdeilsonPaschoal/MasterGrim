@@ -5,5 +5,26 @@
 tagItemArchmageSet1Name=Conjunto do mago de fogo
 tagItemArchmageSet1Desc=Conjunto lendário do guardião da fênix, manipulador de fogo.
 
-tagItemArchmageSet1Skill1Name=Fênix de fogo.
+
+# Set Skills
+tagItemArchmageSet1Skill1Name=Fênix de fogo
 tagItemArchmageSet1Skill1Desc=Fênix de fogo atravessam os inimigos causando dano de fogo.
+
+#Itens Skills
+tagItemArchmageSkill1Name=Manto de fogo
+tagItemArchmageSkill1Desc=Aumenta o controle e poder sob o elemento fogo.
+
+
+#Itens do set
+tagItemArchmageName1=Cetro de fogo
+
+
+#------- Conjunto mago de fogo --------------------------------
+
+# Set Skills
+tagItemArchmageSet1Skill2Name=Feiche de raio
+tagItemArchmageSet1Skill2Desc=Feiches de raio caem sob os inimigos, eletrocutando-os.
+
+#Itens Skills
+tagItemArchmageSkill2Name=Manto de raio
+tagItemArchmageSkill2Desc=Aumenta o controle e poder sob o elemento raio.
