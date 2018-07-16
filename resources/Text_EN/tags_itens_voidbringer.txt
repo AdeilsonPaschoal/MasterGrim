@@ -1,0 +1,32 @@
+#============================ Itens no set ===============================================
+tagVoidBringerItem1=Foice do Vazio
+tagVoidBringerItem2=Mace of Void
+
+#itens skills
+tagVoidBringerItemSkill1Name=Chaos Dread
+tagVoidBringerItemSkill1Desc=Espinhos do chaos rompem do solo.
+#=========================================================================================
+
+
+#============================== Sets ======================================================
+
+#====Set 1
+tagVoidBringerSet1Name=Conjunto Armas do Vazio
+tagVoidBringerSet1Item1=Amuleto Armas do Vazio
+tagVoidBringerSet1Item2=Elmo Armas do Vazio
+tagVoidBringerSet1Item3=Medalha Armas do Vazio
+tagVoidBringerSet1Item4=Ombreira Armas do Vazio
+tagVoidBringerSet1Item5=Torso Armas do Vazio
+
+
+#=====Set 2
+tagVoidBringerSet2Name=Conjunto Magia do Vazio
+tagVoidBringerSet2Item1=Amuleto Magia do Vazio
+tagVoidBringerSet2Item2=Elmo Magia do Vazio
+tagVoidBringerSet2Item3=Ombreira Magia do Vazio
+tagVoidBringerSet2Item4=Manto Magia do Vazio
+
+#=====Skills Set
+tagVoidBringerItemSkill2Name=Chaos Totem
+tagVoidBringerItemSkill2Desc=Invoca o Totem das criaturas do vazio.
+tagVoidBringerItemSkill2NameSkill1=Chaos Ring Bolts
