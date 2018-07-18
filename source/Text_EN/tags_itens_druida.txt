@@ -1,0 +1,9 @@
+#==================== Lengedary =======================================
+
+tagDruidaItem1=Cetro do Invocador
+tagDruidaItem1Skill1Name=Conjurar Servos da Floresta
+tagDruidaItem1Skill1NamePetSkill1=Ataque de Fúria
+tagDruidaItem1Skill1Desc=Invoca os servos da floresta para ajudar o druida em batalha.
+tagDruidaItem2=Tomo do Invocador
+tagDruidaItem2Skill1Name=Poison Pool
+tagDruidaItem2Skill1Desc=Poças de veneno se espalham sob o campo de batalha.
