@@ -7,3 +7,17 @@ tagDruidaItem1Skill1Desc=Invoca os servos da floresta para ajudar o druida em ba
 tagDruidaItem2=Tomo do Invocador
 tagDruidaItem2Skill1Name=Poison Pool
 tagDruidaItem2Skill1Desc=Poças de veneno se espalham sob o campo de batalha.
+
+
+
+#==================== Sets ===============================================
+
+#------ Set da Floresta
+tagDruidaSetName1=Conjunto da Floresta
+tagDruidaSetItem1=Elmo da Floresta
+tagDruidaSetItem2=Medalha da Floresta
+tagDruidaSetItem3=Ombreira da Floresta
+tagDruidaSetItem4=Manto da Floresta
+
+tagDruidaSetSkill1Name=Druid Healing Rain
+tagDruidaSetSkill1Desc=Invoca uma chuva que cura os afetados.
