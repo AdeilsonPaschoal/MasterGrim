@@ -21,3 +21,15 @@ tagDruidaSetItem4=Manto da Floresta
 
 tagDruidaSetSkill1Name=Druid Healing Rain
 tagDruidaSetSkill1Desc=Invoca uma chuva que cura os afetados.
+
+
+#-------- Set da vibora
+
+tagDruidaSet2Name=Conjunto da Víbora
+tagDruidaSet2Item1=Elmo da Víbora
+tagDruidaSet2Item2=Medalha da Víbora
+tagDruidaSet2Item3=Ombreira da Víbora
+tagDruidaSet2Item4=Manto da Víbora
+
+tagDruidaSet2Skill1Name=Summon Poison Praw
+tagDruidaSet2Skill1Desc=Invoca o venenoso Praw da floresta	
