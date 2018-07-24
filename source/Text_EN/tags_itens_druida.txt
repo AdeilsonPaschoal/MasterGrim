@@ -33,3 +33,15 @@ tagDruidaSet2Item4=Manto da Víbora
 
 tagDruidaSet2Skill1Name=Summon Poison Praw
 tagDruidaSet2Skill1Desc=Invoca o venenoso Praw da floresta	
+
+
+#--------- Conjunto do lobo
+
+tagDruidaSet3Name=Conjunto do Lobo
+tagDruidaSet3Item1=Elmo do Lobo
+tagDruidaSet3Item2=Medalha do Lobo
+tagDruidaSet3Item3=Ombreira do Lobo
+tagDruidaSet3Item4=Manto do Lobo
+
+tagDruidaSet3SkillName=Garras do Lobo
+tagDruidaSet3SkillDesc=Lâminas que lembram garras de lobos atingem os inimigos próximos de ti.
