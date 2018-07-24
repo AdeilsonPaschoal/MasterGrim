@@ -45,3 +45,15 @@ tagDruidaSet3Item4=Manto do Lobo
 
 tagDruidaSet3SkillName=Garras do Lobo
 tagDruidaSet3SkillDesc=Lâminas que lembram garras de lobos atingem os inimigos próximos de ti.
+
+
+#---------- Conjunto do Urso
+
+tagDruidaSet4Name=Conjunto do Urso
+tagDruidaSet4Item1=Elmo do Urso
+tagDruidaSet4Item2=Medalha do Urso
+tagDruidaSet4Item3=Ombreira do Urso
+tagDruidaSet4Item4=Armadura do Urso
+
+tagDruidaSet4SkillName=Bulk Up
+tagDruidaSet4SkillDesc=Aumente sua defesa quando estiver perto da morte.
