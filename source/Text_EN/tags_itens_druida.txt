@@ -57,3 +57,12 @@ tagDruidaSet4Item4=Armadura do Urso
 
 tagDruidaSet4SkillName=Bulk Up
 tagDruidaSet4SkillDesc=Aumente sua defesa quando estiver perto da morte.
+
+
+#------------- Conjunto invocador da pedra
+
+tagDruidaSet5Name=Conjunto do Invocador da Pedra
+tagDruidaSet5Item1=Elmo do Invocador da Pedra
+tagDruidaSet5Item2=Medalha do Invocador da Pedra
+tagDruidaSet5Item3=Ombreira do Invocador da Pedra
+tagDruidaSet5Item4=Vestimenta do Invocador da Pedra
