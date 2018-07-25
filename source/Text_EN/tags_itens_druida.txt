@@ -66,3 +66,11 @@ tagDruidaSet5Item1=Elmo do Invocador da Pedra
 tagDruidaSet5Item2=Medalha do Invocador da Pedra
 tagDruidaSet5Item3=Ombreira do Invocador da Pedra
 tagDruidaSet5Item4=Vestimenta do Invocador da Pedra
+
+#------------ Conjunto invocador de veneno
+
+tagDruidaSet6Name=Conjunto do Invocador de Veneno
+tagDruidaSet6Item1=Elmo do Invocador de Veneno
+tagDruidaSet6Item2=Medalha do Invocador de Veneno
+tagDruidaSet6Item3=Ombreira do Invocador de Veneno
+tagDruidaSet6Item4=Vestimenta do Invocador de Veneno
