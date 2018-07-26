@@ -3,3 +3,18 @@
 tagItemFrostSorcererItem1=Amuleto do Ataque de Gelo
 tagItemFrostSorcererItem2=Foco Essência Gélida
 tagItemFrostSorcererItem3=Escudo de Gelo
+
+
+
+#---------------------- Conjunto 1
+
+tagItemFrostSorcererSet1Name=Conjunto do Inverno
+tagItemFrostSorcererSet1Item1=Calça do Inverno
+tagItemFrostSorcererSet1Item2=Elmo do Inverno
+tagItemFrostSorcererSet1Item3=Ombreira do Inverno
+tagItemFrostSorcererSet1Item4=Torso do Inverno
+
+
+tagItemFrostSorcererSetSkillName1=Redemoinho Gélido
+tagItemFrostSorcererSetSkillDesc1=Redemoinho que congela inimigos dando dano de queimadura de gelo.
+tagItemFrostSorcererSetSkillName2=Frost Whirlind
