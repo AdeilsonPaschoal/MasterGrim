@@ -1,0 +1,5 @@
+#-------------------- Lendarios
+
+tagItemFrostSorcererItem1=Amuleto do Ataque de Gelo
+tagItemFrostSorcererItem2=Foco Essência Gélida
+tagItemFrostSorcererItem3=Escudo de Gelo
