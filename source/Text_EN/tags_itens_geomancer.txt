@@ -1,0 +1,12 @@
+#------- Sets
+
+#------------ Conjunto 1
+
+tagItemGeomancerSet1Name=Força da Terra
+tagItemGeomancerSet1Item1=Amuleto Força da Terra
+tagItemGeomancerSet1Item2=Elmo Força da Terra
+tagItemGeomancerSet1Item3=Ombreira Força da Terra
+tagItemGeomancerSet1Item4=Armadura Força da Terra
+
+tagItemGeomancerSet1SkillName1=Proteção de Pedra
+tagItemGeomancerSet1SkillDesc1=Quando sua vida abaixa de 50%, a proteção da pedra reveste você, aumentando suas defesas.
