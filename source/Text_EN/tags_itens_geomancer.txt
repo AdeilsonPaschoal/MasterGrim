@@ -10,3 +10,16 @@ tagItemGeomancerSet1Item4=Armadura Força da Terra
 
 tagItemGeomancerSet1SkillName1=Proteção de Pedra
 tagItemGeomancerSet1SkillDesc1=Quando sua vida abaixa de 50%, a proteção da pedra reveste você, aumentando suas defesas.
+
+
+
+#------------- Conjunto 2
+
+tagItemGeomancerSet2Name=Mago da Terra
+tagItemGeomancerSet2Item1=Amuleto Mago da Terra
+tagItemGeomancerSet2Item2=Elmo Mago da Terra
+tagItemGeomancerSet2Item3=Ombreira Mago da Terra
+tagItemGeomancerSet2Item4=Manto Mago da Terra
+
+tagItemGeomancerSet2SkillName1=Stone Devastation
+tagItemGeomancerSet2SkillDesc1=Invoca chuva de pedras nos alvos.
