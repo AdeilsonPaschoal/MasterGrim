@@ -1,33 +1,56 @@
-#--------------------------------- Sets
+#--------------------------------- Itens
 
-#----------- Set Manto Sagrado
-
-tagPriestSet01Name=Manto Sagrado
-tagPriestSet01Desc=Conjunto sagrado que provê maior poder de fogo e raio.
-tagPriestSet01SkillName=Correntes Sagradas
-tagPriestSet01SkillDesc=Correntes elétricas sagradas se espalham entre os inimigos, diminuindo suas resistências e causando dano de fogo e raio.
-
-tagPriestSet01Amuleto=Amuleto do Manto Sagrado
-tagPriestSet01Ombreira=Ombreira do Manto Sagrado
-tagPriestSet01Elmo=Elmo do Manto Sagrado
-tagPriestSet01Torso=Vestimenta do Manto Sagrado
-
-tagPriestSet01AmuletoSkillName=Círculo da Vida
-tagPriestSet01AmuletoSkillDesc=Invoque um círculo que aumenta sua regeneração de vida, energia e aumenta a velocidade de conjuração de suas magias.
-
-
-#----------- Set proteção Divina
-tagPriestSet02Name=Conjunto da Proteção Divina
-tagPriestSet02Desc=Conjunto que provê alto valores de resistências e aprimoramentos defensivos.
-
-tagPriestSet02Amuleto=Amuleto da Proteção Divina
-tagPriestSet02Anel1=Anel da Proteção Divina I
-tagPriestSet02Anel2=Anel da Proteção Divina II
-tagPriestSet02Medalha=Medalha da Proteção Divina
+tagPriestItem01=Amuleto Magia Sagrada
+tagPriestItem02=Cetro Correntes Sagradas
+tagPriestItem03=Medalha das Armas Sagradas
+tagPriestItem04=Tomo Fogo Sagrado
+tagPriestItem05=Espada Sagrada
 
 
 
+#--------------- Sets
 
 
-#-------------------------- Off-hands - soltos
-tagPriestOffhand01Name=Tomo do Fogo Sagrado
+#------ Set 1
+tagPriestSet1Name=Conjunto do Curandeiro
+tagPriestSet1Item1=Botas do Curandeiro
+tagPriestSet1Item2=Calça do Curandeiro
+tagPriestSet1Item3=Luvas do Curandeiro
+tagPriestSet1Item4=Vestimenta do Curandeiro
+
+tagPriestSet1SkillName1=Marca do Curandeiro
+tagPriestSet1SkillDesc1=Invoca uma marca no chão que cura por segundo quem está sob a mesma.
+
+
+#------- Set 2
+tagPriestSet2Name=Conjunto da Proteção Divina
+tagPriestSet2Item1=Amuleto da Proteção Divina
+tagPriestSet2Item2=Anel da Proteção Divina I
+tagPriestSet2Item3=Anel da Proteção Divina II
+tagPriestSet2Item3=Medalha da Proteção Divina
+
+
+
+#------- Set 3
+tagPriestSet3Name=Conjunto do Justiceiro Sagrado
+tagPriestSet3Item1=Escudo do Justiceiro Sagrado
+tagPriestSet3Item2=Machado do Justiceiro Sagrado
+
+tagPriestSet3SkillName1=Martelos Rodopiantes
+tagPriestSet3SkillDesc1=Martelhos giram em volta de justiceiro, causando dano nos inimgos próximos.
+tagPriestSet3SkillName2=Barreira Sagrada
+tagPriestSet3SkillDesc2=Barreira Sagrada que absorve certos tipos de dano.
+
+
+
+#--------- Set 4
+tagPriestSet4Name=Conjunto Raios Sagrados
+tagPriestSet4Item1=Amuelto dos Raios Sagrados
+tagPriestSet4Item2=Elmo dos Raios Sagrados
+tagPriestSet4Item3=Ombreira dos Raios Sagrados
+tagPriestSet4Item4=Manto dos Raios Sagrados
+
+tagPriestSet4SkillName1=Correntes Elétricas Sagradas
+tagPriestSet4SkillDesc1=Correntes elétricas espalham entre os inimgos causando dano de raio e fogo.
+tagPriestSet4SkillName2=Círculo da Proteção
+tagPriestSet4SkillDesc2=Um Círculo sagrado que aumenta a resistência, regeneração e velocidade de lançamento de feitiços

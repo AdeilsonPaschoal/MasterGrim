@@ -1,0 +1,29 @@
+#------------------- Legendary
+
+tagItemHunterName1=Medalha do Lobo Caçador
+tagItemHunterName2=Pistola da Pestilência
+tagItemHunterName3=Besta Envenenada
+
+
+
+#------------------- Sets
+
+
+#----------- Set1
+tagItemHunterSet1Name=Conjunto Corte Sangrento
+tagItemHunterSet1Item1=Amuleto do Corte Sangrento
+tagItemHunterSet1Item2=Elmo do Corte Sangrento
+tagItemHunterSet1Item3=Ombreira do Corte Sangrento
+tagItemHunterSet1Item4=Vestimenta do Corte Sangrento
+
+tagItemHunterSet1SkillName1=Anel de Estacas de Sangue
+tagItemHunterSet1SkillDesc1=Estacas de sangue em forma de anel atingem os inimgos, fazendo-os sangrarem.
+
+
+#----------- Set2
+tagItemHunterSet2Name=Conjunto Corte Venenoso
+tagItemHunterSet2Item1=Amuleto do Corte Venenoso
+tagItemHunterSet1Item2=Elmo do Corte Venenoso
+tagItemHunterSet1Item3=Medalha do Corte Venenoso
+tagItemHunterSet1Item4=Ombreira do Corte Venenoso
+tagItemHunterSet1Item5=Vestimenta do Corte Venenoso

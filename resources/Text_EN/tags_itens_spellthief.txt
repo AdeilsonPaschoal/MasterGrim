@@ -1,0 +1,25 @@
+#---------------- Lendarios soltos
+tagItemSpellthiefItem01=Amuleto de Allostria
+tagItemSpellthiefItem02=Medalha de Allostria
+
+tagItemSpellthiefItem03=Garra de Allostria
+tagItemSpellthiefItem03SkillName1=Allostria Replicating Knife
+tagItemSpellthiefItem03SkillDesc1=Lança apenas uma faca de allostria, porém ele se replica ao acertar um inimigo.
+
+tagItemSpellthiefItem04=Bençao de Allostria
+tagItemSpellthiefItem05=Maldição de Allostria
+
+
+
+#--------------- Sets
+
+#------- set 1
+tagSpellthiefSet1Name=Conjunto Lâminas de Allostria
+tagSpellthiefSet1Item1=Vestimenta Lâminas de Allostria
+tagSpellthiefSet1Item2=Ombreira Lâminas de Allostria
+tagSpellthiefSet1Item3=Luvas Lâminas de Allostria
+tagSpellthiefSet1Item4=Elmo Lâminas de Allostria
+tagSpellthiefSet1Item5=Bota Lâminas de Allostria
+
+tagSpellthiefSet1SkillName1=Allostria RK
+tagSpellthiefSet1SkillDesc1=Facas de Allostria em formato de anel atingem os inimigos próximos.

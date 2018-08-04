@@ -1,0 +1,34 @@
+#--------------- itens soltos
+tagItemWitch1=Medal Witch of Aether
+tagItemWitch2=Medal Witch of Chaos
+tagItemWitch3=Foice da Bruxa
+
+
+
+#-------------- Sets
+
+#---- set1
+tagWitchSet1Name=Aliança da Bruxa
+tagWitchSet1Item1=Anel da Fraqueza I
+tagWitchSet1Item2=Anel da Fraqueza II
+
+
+#----- set2
+tagWitchSet2Name=Conjunto da Bruxa
+tagWitchSet2Item1=Amuleto da Bruxa
+tagWitchSet2Item2=Chápeu da Bruxa
+tagWitchSet2Item3=Livro da Bruxa
+tagWitchSet2Item4=Vestimenta da Bruxa
+
+tagWitchSet2SkillName1=Summon Shadown Pact
+tagWitchSet2SkillDesc1=Invoca a criatura mágica serva da bruxa.
+tagWitchSet2SkillName2=Orb Explosiva da Bruxa
+tagWitchSet2SkillDesc2=Uma orb explosiva viva investe e explode ao encontrar um inimigo.
+
+#----- set3
+tagWitchSet3Name=Conjunto da Bruxa Invocadora
+tagWitchSet3Item1=Bota da Bruxa Invocadora
+tagWitchSet3Item2=Elmo da Bruxa Invocadora
+tagWitchSet3Item3=Luva da Bruxa Invocadora
+tagWitchSet3Item4=Ombreira da Bruxa Invocadora
+tagWitchSet3Item5=Manto da Bruxa Invocadora

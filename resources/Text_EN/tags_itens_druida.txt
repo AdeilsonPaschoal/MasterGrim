@@ -1,0 +1,86 @@
+#==================== Lengedary =======================================
+
+tagDruidaItem1=Cetro do Invocador
+tagDruidaItem1Skill1Name=Conjurar Servos da Floresta
+tagDruidaItem1Skill1NamePetSkill1=Ataque de Fúria
+tagDruidaItem1Skill1Desc=Invoca os servos da floresta para ajudar o druida em batalha.
+tagDruidaItem2=Tomo do Invocador
+tagDruidaItem2Skill1Name=Poison Pool
+tagDruidaItem2Skill1Desc=Poças de veneno se espalham sob o campo de batalha.
+
+
+
+#==================== Sets ===============================================
+
+#------ Set da Floresta
+tagDruidaSetName1=Conjunto da Floresta
+tagDruidaSetItem1=Elmo da Floresta
+tagDruidaSetItem2=Medalha da Floresta
+tagDruidaSetItem3=Ombreira da Floresta
+tagDruidaSetItem4=Manto da Floresta
+
+tagDruidaSetSkill1Name=Druid Healing Rain
+tagDruidaSetSkill1Desc=Invoca uma chuva que cura os afetados.
+
+
+#-------- Set da vibora
+
+tagDruidaSet2Name=Conjunto da Víbora
+tagDruidaSet2Item1=Elmo da Víbora
+tagDruidaSet2Item2=Medalha da Víbora
+tagDruidaSet2Item3=Ombreira da Víbora
+tagDruidaSet2Item4=Manto da Víbora
+
+tagDruidaSet2Skill1Name=Summon Poison Praw
+tagDruidaSet2Skill1Desc=Invoca o venenoso Praw da floresta	
+
+
+#--------- Conjunto do lobo
+
+tagDruidaSet3Name=Conjunto do Lobo
+tagDruidaSet3Item1=Elmo do Lobo
+tagDruidaSet3Item2=Medalha do Lobo
+tagDruidaSet3Item3=Ombreira do Lobo
+tagDruidaSet3Item4=Manto do Lobo
+
+tagDruidaSet3SkillName=Garras do Lobo
+tagDruidaSet3SkillDesc=Lâminas que lembram garras de lobos atingem os inimigos próximos de ti.
+
+
+#---------- Conjunto do Urso
+
+tagDruidaSet4Name=Conjunto do Urso
+tagDruidaSet4Item1=Elmo do Urso
+tagDruidaSet4Item2=Medalha do Urso
+tagDruidaSet4Item3=Ombreira do Urso
+tagDruidaSet4Item4=Armadura do Urso
+
+tagDruidaSet4SkillName=Bulk Up
+tagDruidaSet4SkillDesc=Aumente sua defesa quando estiver perto da morte.
+
+
+#------------- Conjunto invocador da pedra
+
+tagDruidaSet5Name=Conjunto do Invocador da Pedra
+tagDruidaSet5Item1=Elmo do Invocador da Pedra
+tagDruidaSet5Item2=Medalha do Invocador da Pedra
+tagDruidaSet5Item3=Ombreira do Invocador da Pedra
+tagDruidaSet5Item4=Vestimenta do Invocador da Pedra
+
+
+#------------ Conjunto invocador de veneno
+
+tagDruidaSet6Name=Conjunto do Invocador de Veneno
+tagDruidaSet6Item1=Elmo do Invocador de Veneno
+tagDruidaSet6Item2=Medalha do Invocador de Veneno
+tagDruidaSet6Item3=Ombreira do Invocador de Veneno
+tagDruidaSet6Item4=Vestimenta do Invocador de Veneno
+
+
+#------------ Conjunto invocador de selvagem
+
+tagDruidaSet7Name=Conjunto do Invocador de Selvagem
+tagDruidaSet7Item1=Elmo do Invocador Selvagem
+tagDruidaSet7Item2=Medalha do Invocador Selvagem
+tagDruidaSet7Item3=Ombreira do Invocador Selvagem
+tagDruidaSet7Item4=Vestimenta do Invocador Selvagem
