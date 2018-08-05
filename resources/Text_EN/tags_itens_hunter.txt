@@ -23,7 +23,7 @@ tagItemHunterSet1SkillDesc1=Estacas de sangue em forma de anel atingem os inimgo
 #----------- Set2
 tagItemHunterSet2Name=Conjunto Corte Venenoso
 tagItemHunterSet2Item1=Amuleto do Corte Venenoso
-tagItemHunterSet1Item2=Elmo do Corte Venenoso
-tagItemHunterSet1Item3=Medalha do Corte Venenoso
-tagItemHunterSet1Item4=Ombreira do Corte Venenoso
-tagItemHunterSet1Item5=Vestimenta do Corte Venenoso
+tagItemHunterSet2Item2=Elmo do Corte Venenoso
+tagItemHunterSet2Item3=Medalha do Corte Venenoso
+tagItemHunterSet2Item4=Ombreira do Corte Venenoso
+tagItemHunterSet2Item5=Vestimenta do Corte Venenoso
