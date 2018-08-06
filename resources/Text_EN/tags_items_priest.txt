@@ -1,6 +1,10 @@
 #--------------------------------- Itens
 
 tagPriestItem01=Amuleto Magia Sagrada
+tagPriestItem01Skill1Name=Conjurar Magos Sagrados
+tagPriestItem01Skill1NamePetSkill1=Meteoro Sagrado
+tagPriestItem01Skill1NamePetSkill2=Anel de Bola de Fogo Sagrada
+tagPriestItem01Skill1Desc=Invoca Magos Sagrados para ajuda-lo em combate.
 tagPriestItem02=Cetro Correntes Sagradas
 tagPriestItem03=Medalha das Armas Sagradas
 tagPriestItem04=Tomo Fogo Sagrado
