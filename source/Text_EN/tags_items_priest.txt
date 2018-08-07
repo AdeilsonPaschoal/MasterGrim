@@ -31,7 +31,7 @@ tagPriestSet2Name=Conjunto da Proteção Divina
 tagPriestSet2Item1=Amuleto da Proteção Divina
 tagPriestSet2Item2=Anel da Proteção Divina I
 tagPriestSet2Item3=Anel da Proteção Divina II
-tagPriestSet2Item3=Medalha da Proteção Divina
+tagPriestSet2Item4=Medalha da Proteção Divina
 
 
 
