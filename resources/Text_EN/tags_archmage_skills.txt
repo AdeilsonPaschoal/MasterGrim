@@ -21,7 +21,7 @@ tagSkillArchmageDesc02B=Aumenta o dano elétrico.
 
 #Meteors
 tagSkillArchmageName03=Meteors
-tagSkillArchmageDesc03=Pedras em chamas de grande dano de fogo.
+tagSkillArchmageDesc03=Pedras em chamas de grande dano de fogo.^o Requer foco.
 
 #Magical Weapons Fire
 tagSkillArchmageName04=Magical Weapons Fire
@@ -105,4 +105,4 @@ tagSkillArchmageDesc17=Use o poder destrutivo de fogo e raio dos arquimagos.
 
 #Lightning Rain
 tagSkillArchmageName18=Lightning Rain
-tagSkillArchmageDesc18=Chuva de orbes de raio cai sob os inimigos.
+tagSkillArchmageDesc18=Chuva de orbes de raio cai sob os inimigos.^o Requer foco.

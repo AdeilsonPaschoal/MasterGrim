@@ -14,7 +14,7 @@ tagSkillDruidName02S1=Poison Cloud
 
 #Acid Rain
 tagSkillDruidName03=Acid Rain
-tagSkillDruidDesc03=Invoque uma chuva ácida para envenenar os inimigos atingidos.
+tagSkillDruidDesc03=Invoque uma chuva ácida para envenenar os inimigos atingidos.^o Requer foco.
 tagSkillDruidName03A=Poison Pool
 tagSkillDruidDesc03A=É formada poças de veneno pela chuva ácida.
 

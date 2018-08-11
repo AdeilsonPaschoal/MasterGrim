@@ -24,7 +24,7 @@ tagSkillPriestDesc02=Cegue seus inimigos em volta de ti.
 
 #Castigo dos ceus
 tagSkillPriestName03=Castigo dos céus
-tagSkillPriestDesc03=Rochas vindo dos céus caem sobre a terra dezimando os inimigos.
+tagSkillPriestDesc03=Rochas vindo dos céus caem sobre a terra dezimando os inimigos.^o Requer foco ou cetro
 
 
 #Cura divina
@@ -123,7 +123,7 @@ tagClassHunterSkillDescription00A=A caça te espera.
 
 #Chuva de dardos
 tagSkillHunterName01=Chuva de dardos
-tagSkillHunterDesc01=Invoque uma chuva de dardos sob seus inimigos.
+tagSkillHunterDesc01=Invoque uma chuva de dardos sob seus inimigos.^o Requer arma à distância.
 
 #Dardos multiplos
 tagSkillHunterName02=Dardos múltiplos
@@ -228,10 +228,16 @@ tagSkillHunterName18=Impacto de veneno
 tagSkillHunterDesc18=Modifica a skill impacto.
 
 #Dardo replicante de sangue
-tagSkillHunterName19=Dar replicante de sangue
+tagSkillHunterName19=Dardo replicante de sangue
 tagSkillHunterDesc19=Modifica a skill dardo de ferro.
 
+#Bursting Poison
+tagSkillHunterName20=Bursting Poison
+tagSkillHunterDesc20=Projétil explosivo de poison.^o Ativado com ataques padrão de armas de longa distância.
 
+#Bursting Bleeding
+tagSkillHunterName21=Bursting Bleeding
+tagSkillHunterDesc21=Projétil explosivo de sangue.^o Ativado com ataques padrão de armas de longa distância.
 ------------------------------------------------- Frost Sorcerer
 
 tagClassFrostSorcererSkillName00=Frost Sorcerer
@@ -273,7 +279,7 @@ tagSkillFrostSorcererDesc03T=Retira cooldown mas diminui o dano.
 
 #Nevasca
 tagSkillFrostSorcererName04=Nevasca
-tagSkillFrostSorcererDesc04=Chuva de espinhos de gelo em grande área atingem os inimigos e os retardam.
+tagSkillFrostSorcererDesc04=Chuva de espinhos de gelo em grande área atingem os inimigos e os retardam.^o Requer foco.
 
 #Abominação das neves
 tagSkillFrostSorcererName05=Abominação das neves

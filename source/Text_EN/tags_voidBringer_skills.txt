@@ -58,7 +58,7 @@ tagSkillVoidBringerDesc08=Marca os inimigos com o vazio, debilitando-os.
 
 #Chaos Devastation
 tagSkillVoidBringerName09=Chaos Devastation
-tagSkillVoidBringerDesc09=Meteoros de caos caem sob os inimigos.
+tagSkillVoidBringerDesc09=Meteoros de caos caem sob os inimigos.^o Requer foco.
 
 #Chaotic
 tagSkillVoidBringerName10=Chaotic
