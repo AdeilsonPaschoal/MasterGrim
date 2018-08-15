@@ -41,7 +41,9 @@ tagAprimoramentoClasse21a=AP. Queimadura de Gelo (weapon)
 tagAprimoramentoClasse22a=AP. Elemental (weapon)
 tagAprimoramentoClasse23a=AP. Etéreo (weapon)
 
-tagAprimoramentoClasse00=Matéria
+tagAprimoramentoClasse00Name=Cristal Arcano
+tagAprimoramentoClasse00Desc=Cristal arcano de origens desconhecidas. Utilizado como ingrediente de aprimoramentos de classe.
+tagAprimoramentoClasse00NameRecipe=Receita Cristal Arcano
 
 tagBlueprintAprimoramentoDesc=Cria um componente de aprimoramento.
 tagBlueprintAprimoramento01=Receita AP Físico (caster)
