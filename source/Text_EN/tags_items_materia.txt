@@ -1,0 +1,10 @@
+tagItemMateria01Name=Cristal Antigo
+tagItemMateria01Desc=Cristal Antigo. Utilizado para criar itens lendários (MasterGrim).
+tagItemMateria02Name=Cristal Radiante
+tagItemMateria02Desc=Cristal Radiante. Utilizado para criar itens lendários (MasterGrim).
+tagItemMateria03Name=Cristal Obscuro
+tagItemMateria03Desc=Cristal Obscuro. Utilizado para criar itens lendários (MasterGrim).
+
+tagRecipeArmorMaster=Armadura lendária Randômica (MasterGrim)
+tagRecipeAccessorieMaster=Acessório lendário Randômico (MasterGrim)
+tagRecipeWeaponsMaster=Arma lendária Randômica (MasterGrim)
