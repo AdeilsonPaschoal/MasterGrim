@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,85,
+records,records/items/loottables/custom/gearhands/tdyn_hands_1.dbr,
