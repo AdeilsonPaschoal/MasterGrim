@@ -112,3 +112,7 @@ tagSkillWitchDesc17=Aumenta o pode obscura da Bruxa.^o Requer foco.
 #Dark Power II
 tagSkillWitchName18=Dark Power II
 tagSkillWitchDesc18=Aumenta o pode obscura da Bruxa.^o Requer cetro.
+
+#Bursting Aether Round
+tagSkillWitchName19=Bursting Aether Round
+tagSkillWitchDesc19=Projétil Explosivo de Aether.^o Reqyer arma de longa distância.
