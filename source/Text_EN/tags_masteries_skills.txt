@@ -332,5 +332,3 @@ tagSkillFrostSorcererDesc13=Aumenta sua habilidade de manipulação do gelo.
 #Frost Companions
 tagSkillFrostSorcererName14=Frost Companions
 tagSkillFrostSorcererDesc14=Fortaleça do poder gélido de seus asseclas.^o Essa skill deve ser ativada para manter seu efeito.
-tagSkillFrostSorcererName14T=Transmutador
-tagSkillFrostSorcererDesc14T=Converta parte do dano fisíco para dano gélido de seus asseclas.

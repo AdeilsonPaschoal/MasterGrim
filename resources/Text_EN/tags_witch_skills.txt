@@ -75,6 +75,7 @@ tagSkillWitchDesc10A=Aumenta o limite de cachorros.
 tagSkillWitchName10B=Zombie Dog Passive II
 tagSkillWitchDesc10B=Aumenta o dano e converte dano fisico para aether.
 tagSkillWitchName10PetSkill1=Mordida
+tagSkillWitchName10PetSkill2=Morte Obscura Explosiva
 
 #Dark Raven
 tagSkillWitchName11=With Raven
