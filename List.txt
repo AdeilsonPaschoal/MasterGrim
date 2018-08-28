@@ -1,0 +1,549 @@
+
+------------ Auras
+* Todas do POE: https://pathofexile.gamepedia.com/Aura
+
+------------ Dominância
+- Ao levar um ataque critico ganha um escudo com uma quantidade de absorção de dano.
+
+------------ Retalhamento
+- Golpe que causa dano em degree(arco) com efeito do Feran Hunger do Shaman
+
+------------ Disparada
+- Buff temporario que aumenta a velocidade de movimento.
+
+------------ Ignora dor
+- Abosrve 50% de dano durante 5 segundos e resistências a CC.	
+
+------------ Chamado dos Ancestrais
+- Invoca guerreiros como alta velocidade por alguns segundos. Dano baseado no player.
+
+------------ Mascote aranha
+- Invoca uma aranha que lanças teias que retardam (e muito) os inimigos.
+
+----------- Perseguição
+- Chance de Procar uma Skill que aumenta a velocidade de ataque (flat e porcentagem). Apenas para armas de longa distância.
+
+----------- Ataque sagrado
+- Ataque de arma que tem chance de procar uma skill que aumenta o regen e vai cada vez tendo mais chances de procar regens melhores.
+
+----------- Pele de ferro
+- Absorve dano em porcentagem e aumenta bastante em porcentagem All Retaliation
+
+----------- Castigar
+- estilo chainlight mas com apenas um raio maior e amarelo. Tem chance de stun e chance de procar uma nova sagrada amarela.
+- Skill Smite do Cruzado no mod Diablo 3.
+
+----------- Espadas rodopiantes de fogo
+- Igual ao chakram, porém usa uma mesh de uma espada de fogo que causa dano de fogo e burn.
+- Pegar espada dos fantasmas e colocar PFX de fogo nela.
+
+---------- Escudeiros
+- Invoca guerreiros que apenas possuem a skill blitz sem recarga. Duram alguns segundos.
+
+---------- Renovação
+- Ao bloquear chance de procar uma skill que cura parte da vida. 
+
+---------- Enxame devorador
+- Invoca Enxame (igual os do jogo) que dão dano venenoso e de sangramento nos inimigos. São temporários.
+- Ser PEt com dano baseado em Pets.
+
+---------- Summon Carranco 
+- UM globin Xamã que cura, debuffa e utiliza magias. Permanente.
+
+---------- Exercito pavoroso
+- Invoca exercito de globenzinhos de melee e arqueiros. Temporários.
+
+--------- Summons magos
+- Invoca magos com diversidade de skills
+
+--------- Fênix de fogo
+- Voam nos inimigos atravessam e queimam
+
+--------- Para raios
+- Marca um inimigo, essa marca possui uma duração e tem chance de procar um lightning bolt sob o alvo.
+
+--------- Bomba de fumaça
+- Ganha movement speed, capacidade de avoid e chance de gerar confusão.
+
+--------- Nova de agua
+- Usar efeito de impacto das orbes de aguas dos sliths.
+
+--------- Canalisador de mana
+- Canaliza e da mana leech.
+- Estilo drain essence.
+
+--------- Aura sangrenta
+- Fica sangrando e dando dano de sanagramento a inimigos próximos
+
+--------- Zumbies interliados
+- Zumbis com raios que ligam um ao outro(storm box).
+
+--------- Magos de AAR
+- Magos que apenas possuem a skills Aether Ray, porém elemental.
+
+--------- Zombies flamejantes
+- Explodem ao morrer
+
+--------- Golem de fogo
+- Golpe nova de fogo ao bater no chão
+
+--------- Summon de fogo
+- ALgum summon que lança bolas de fogo, pode ser os globins.
+
+--------- Skill que modifica os esqueletos do necro, para só vir arqueiros e de cold.
+
+--------- Totem de ligação
+- Invoca totens que possuem ligações (storm box).
+
+--------- Dark orbs obirtal
+- Orbes que ficam orbitando lentamento a uma distância de vc. Efeito buffselftoggled
+
+--------- Elemental orb
+* Estilo 'Elemental Volley' do aeromancer do mod Cataclysm
+
+--------- Summon eletrico
+- Aquelas serpentes (Slith) que soltam as Storm Bolt do aeromancer do mod Cataclysm
+
+--------- Totem elétrico
+- Pegar o 'Ligthning Rod' do Aeromancer do mod Cataclysm
+
+--------- Buff elemental que serve para pets tbm
+- Com a aparência do ELemental overload do Aeromancer do mod Cataclysm
+
+--------- Proc buff bem forte elemental
+- Pegar efeito do Elemental Fury do Aeromancer do mod cataclysm
+
+-------- Summon Esqueletal warrior cold
+- Incova um esqueleto de gelo com armadura pesada e escudo.
+
+-------- Invocador de glutos
+- Uma estátua que invoca glutoes a cada segundo durante um tempo. Os glutoes tem pouca vida e pouco tempo de vida.
+
+-------- Raio perseguidor sagrado
+* Algo para priest
+- Igual ao Heavens Fury do cruzado do mod D3
+
+------- ORbe Sagrada
+* tem a ver com a priest
+- Orbe amarela. Decidir se é uma skill caster granted, skill caster modificada de alguma orb de alguma classe ou se é um Proc.
+
+------- Guerreiros sagrados
+* tem a ver com a priest
+- Chance de invocar guerreiros sagrados melees com alta velocidade de ataque e que cada ataque trema a tela. Os ataques devem ter aparência amarela.
+
+------- Investida sagrada com escudo
+* tem a ver com priest + soldade
+- Skill semelhante ao Shield Bash do cruzado
+
+------- Smite
+* ser skill granted de algum foco
+- Usar a Smite do cruzado com todas as passivas imbutidas
+
+------ Proc charged bolt
+- Proca da skill charged bolt do mod D2
+
+------- Proc poison nova
+- Proc da skill poison nova do mod D2 do C.Necromancer
+
+------ Proc orbital 
+- Algum proc estilo chakram do Demon Hunter Mod D3
+
+------ Cluster Arrow
+* Skill para ranged dual weapon
+- Igual ao cluster arrow do Demon Hunter mod D3
+
+------ Entaling shot
+- Ataque que tbm da mt slow nos monstros
+* Efeito igual ao entalig shot do demon hunter do mod D3
+
+------ Proc seismic blast
+- Proc com o seismic blast do Druid do mod cataclysm
+
+------ Proc Wave pedra
+- Usar o proc da passiva da skills Rockbiter Weapons do druida do mod Cataclysm
+
+
+------ Might of Magic
+* Decidir se será proc ou não
+- Pegar a might of magic do ELementalist Zenith mods
+
+----- Srpite
+- Fazer como proc
+- Skill estilo sprite do elementalis mod Zenith
+
+------ Death from bellow
+- Skill semelhante ao Death from bellow do maleficar do mod cataclysm
+
+------ Deacyung flesh
+- Pegar skill estilo decaying flesh do maleficar mod cataclysm
+
+------ Shroud of Darkness
+- Pegar skill shroud of darkness do maleficar mod cataclysm
+
+------ Degenerate
+- Pegar skill Degenerate do maleficar mod cataclysm
+
+------  Explosão elemental
+- Um proc de skill que melee que faz uma explosão.
+
+------ Buff onfensivo temporario
+- Com aparência da skill Serenity do Monk mod D3
+
+------ Rain of swords
+- Igual a do fanghsi do mod NCFF
+
+------ Binding Vines
+- Igual a do fanghsi do mod NCFF
+
+------ Frost wings
+- Igual a do fangsi do mod NCFF
+
+------ Blossom Step
+- Igual a do fanshi mod NCFF
+
+------ Phantom falcon
+- Igual a skill do Ranger do mod NCFF
+
+------ Death Nova
+- Com a mesma aparência da skill Death Nova do Necromancer D3.
+
+------ Proc Grim Scythe
+- igual a do Necromancer mod D3
+
+------ Leech 
+- Igual a Leech do necromancer mod D3
+
+------ Redemoinho
+- Para set do geomancer
+- Igual a skill de morte do golem do necromancer mod D3.	
+
+----- Blood Nova
+- Igual a skill Blood Boil do Nofestaru mod Cataclysm
+
+----- Bio bomb
+- Igual a skill do Outrider mod cataclysm
+
+----- Summonador de esqueletos
+- Armadura que ao ser atingido tem chance de summonar esqueletos
+* Efeito do Exoesqueletal Armor do Necromancer do mod GrimLEgion
+
+----- Swap
+- Skill do riftalker do mod Zenith
+
+----- Arcane shot
+- Pegar arcane shot do Stalker do mod Cataclysm com todos procs de passivas.
+
+----- Soulred
+- Proc da soulrend do Stalker do mod Cataclysm
+
+----- Summon Void Fiend
+- Igual a skill do Voidcaller do mod cataclysm
+
+------ Spirit Barrage
+- Igual a skill do Witch Doctor do mod D3
+
+------ Haunt
+- Igual a skill do Witch Doctor do mod D3.
+
+------ Lightning orb drop
+- Estilo lightning orb (transmuter do orb do Wizard mod D3).
+
+------ Magic Missile
+- Igual a do wizard do mod D3.
+
+------ Mirror Image
+- Igual a do wizard do mod D3
+
+------ Ice ring
+- Igual ao efeito do Ice Armor do wizard mod D3.
+
+------ Blood Purge
+- Igual a skill Acid Purge de ComponentsGDX1. Porém de sangue.
+
+------ Ice Purge
+- Igual a skill Acid Purge de ComponentsGDX1. Porém de gelo.
+
+------ Bitting Blades
+- Ter de outros elementos a skill Bitting Blades dos ComponentsGDX1.
+
+------ Onda de água
+- Igual a skill tsunami das Devotions
+
+------ Blood Fury
+- Skill igual a Blind Fury das Devotions. Porém de sangue.
+
+------ Whirpool
+* Pegar Whirlpool das devotions
+- Ter pra veneno
+- Ter pra blood
+
+------ Currents
+* Pegar arcane currents das devotions como base
+- Ter para cada elemento de dano.
+- De aether pode usar o Aether Smash
+
+------ Elemental force
+* Base do elemental force das skills de itens
+- Ter para todos os danos
+
+----- Flame snap
+* Pegar Flame Path da skills items como base
+* Fazer uma marca no chão que explode após 0.5 segundos.
+
+----- Elemental Ring
+* Pegar o Kirlian Flame das skills itens como base.
+
+----- Totem vitality
+- Solta orbes de vitality (rosas) em forma de anel
+
+----- Sun spot
+- Pegar a mesmo das skills granted de itens
+- Deixar como skill cast.
+
+----- Dark Totem
+- Skill de aura roxa que debilita e da dano de aether e chaos
+
+----- Toxic glas cloud
+- Skill legendary itens
+
+------- Blades orbita
+- Estilo Slayer's Blades.
+- Fazer para mais tipos danos.
+
+------- Vitality Ring
+
+------- Elemental Orbit
+- Estilo elemental force Legendary Skills GDX1. Porém de outros danos.
+
+------ Execution Edge
+- Skills legendary GDX1. Fazer com outros danos.
+
+------- Proc boomerang
+- Skills estilo Gargabol Corrumption das Legendary GDX1. Porém com outros danos.
+
+
+------- Unleash Chaos
+- É aquela nova da morte do Harbinger
+- Skill legendary GDX1
+- Ter para outros danos
+- Ser proc's skills
+
+------ Marca de agua
+* Tem na AOE skills.
+- È a marca de agua que joga agua pra cima
+
+------ Projectile Drop vitality/chaos
+- Tem na AOE_projectile.
+
+------- Molotov de chaos
+- Tem no attack projectiles
+
+------- [Aguia de veneno
+- Skill de projectiles
+
+------ Spine Venom Wave
+- Tem na pasta attackprojectiles
+
+------ Orb de agua
+- Tem na pasta attackprojectiles
+
+------ Aether ring orbs
+- Tem na pasta attackprojectiles rings
+
+------ Chaos ring projectile
+- Tem na pasta attackprojectiles rings
+
+------ Poison ring orbs
+- Tem na pasta attackprojectiles rings
+
+------ Chaos fisico branco
+- Tem na pasta attackradius é uma nova branca
+
+------ Wave de pedras para todos os lados
+- Tem na pasta bosskills
+
+------ Chuva de pedras
+* ter algo em relação ao geomancer
+- Tem na pasta bosskills
+
+------ Blood orbs e blood orbs rings
+- - Tem na pasta bosskills
+
+------ Outra marca de agua
+- Tem na pasta bosskills
+
+------ Pedras de chaos que explodem ao ser encontada
+- Tem na pasta bosskills/nemesis
+
+----- Auras nemeis
+- Tem na pasta bosskills/nemesis
+- Ter para todos os tipos de dano'
+
+----- Vitality spines wave
+- Tem na pasta nonplayersskills GDX1/ attackprojetiles
+
+----- Rain proc acid
+- Tem na pasta nonplayersskills GDX1/ attackprojetiles
+
+----- Onda de raiz de arvores gigante
+- Tem na pasta nonplayersskills GDX1/ attackprojetiles
+
+----- Rings skills projectiles
+- Fazer todoas da pasta abaixo:
+	- C:\Users\Adeil\Desktop\Pastas\Mods\Recursos\skills\nonplayersGDX1\attackprojectilering
+	
+------ Giant Blight
+- Usar a do skills relics, porém com area mt maior.
+
+----- Rato venenoso explosivo
+- usar aquele ratinho pequeno que explode com o contato.
+
+----- Infernal Collapse
+- Uma espécie de raio de fogo que fica se movendo. Com uma marca no chão.
+* Igual nesse video:https://www.youtube.com/watch?v=O6NXDO7BSY4 no minuto 1:25
+* Podemos usar o Wind Devil como base, mas invocar vários ao mesmo tempo ou essa skill como proc sem cooldown.
+
+----- Orbes de chainlight
+- Lança orbes grandes e bem lentas que causam chainlight nos inimigos próximos
+* Base: https://www.youtube.com/watch?v=O6NXDO7BSY4 minuto 6:25
+
+----- Estandarte
+- Invoca um estandarte com uma grande area que da um buff ou um debuff
+
+----- Orbe voadora curadoura
+- Uma orbe amarela que te acompanha(tipo aquela orbe azul que ganhamos que nos segue) que possui uma aura dourada com uma marca no chão bem transparente
+	essa aura da um pequeno regen a todos(inclusives pets) que estejam dentro dela.
+- Ser de um amuleto ou reliquia.
+
+----- Invocar cultistas magos
+- Invocar aleatoriamente um com bola de acido, outro com bola de fogo. Usar as skills do proprio cultista.
+
+----- Invocar xama de raios
+- Skills de chuva de raios, chainlight, e anel de orbes de raios. Ter aura de raio que da mais dano de raio aos companheiros próximos.
+
+----- invocar zumbis de fogo
+- atacam bolas de fogo e explodem quando morrem.
+
+------ invocar aqueles olhos que lançam raios
+
+------ guerreiros esqueletos de poison, com auras de poison
+
+- fazer componente com a skill de orbe de poison dos cultistas
+- Skill de drop de meteoros (todos de uma vez) dos harbinger dos cultistas
+- Skill que invoca aquele bichos de chaos (que tacam orbes de chaos) que atacam orbes e skill de meteoros (igual os de cima mas de chaos)
+
+------ Onda de aether
+- Usar a onda de aether do carcereiro krieg
+
+----- Feras voadoras
+- invoca aquelas bixos que voam, que usam a skill de wave de raio.
+- * O bixo é aquele étereo q parece uma ave monstro
+
+------- Invocar servo de Zarthuzelan
+- Esqueleto mago de fogo com as skills do Zarthuzelan
+
+------ Blackwater Cocktaial Aether
+- Skill estilo blackwater cocltail mas de aether, com efeito de explosão de aether e fogo de aether.
+
+------ Vitality Rune
+- Estilo a marca de uma skill dos Gouls (ou aqueles elfos das cavernas de vitality)
+
+------ Blood Wave
+- Onda de sangue. (citonicos possuem uma onda dessas)
+
+
+------ Batida com armas no chao e explosao de fogo
+- Os Kymons possuem uma skill dessa, parece uma forcewave de fogo pequena
+* Fazer para outros tipos de dano tbm.
+* Os ctonians possuem uma wave de raio
+
+----- Modificador do replicating missile
+- Modifica para dano de raio
+- Mudar o FX do projetil para o FX do projetil de uma bala de raio dos kymons.
+
+
+----- CHamas de aether
+- Igual a skill do comandante lucius
+- Pode usar as chamas do inquisitor e mudar fx para verde, ou fazer um transmuter pra ela de aether (atraves de itens)
+
+----- Orbe de chaos com pool
+- Igual a orbe que o logorrean lança.
+
+
+----- Anel de orbes de veneno
+- Estilo a skill do rei do pantano
+
+
+----- Colocar as skills de veneno das plantas carnivoras de ugdenborg
+
+
+----- Aura de sangue
+- Igual a skill do boss Packla
+
+
+------ Skill de chuva de fogo
+- Usar projetil igual a planta carnivora de fogo de ugdenborg
+
+
+------ Invocar Jubas de veneno
+- Aquele jubas (tipo kubacabra) que possuem skill de vomito de veneno (já tem jubas inimigos com essa skill)
+
+------ Poison arc attack
+- Usar o fx daquelas arvores do pantano q andam. Elas tem essa skill.
+
+
+------ Invocar aqueles lamasentos de ugdenborg
+	- Ter as variações de elementos deles (gelo, veneno, fogo, vitality , etc)
+	
+	
+----- invocar Carangueijo de veneno
+- Com as mesmas skills do carraxus (com dano baseado nos pets do jogo)
+- Invocar tbm o de fogo, raio e gelo. (possuem MESH e FX)
+
+----- Skill do bargoll (boss do pantano de ugdenbog)
+- COlocar a skill de orbes de poison que saem uma atras da outra em forma de anel.
+
+----- Morteiro de veneno
+- Usar o morteiro mas com o projectile da skill das plantas carnivoras de veneno (aquele q ela solta uma orbe de veneno pra cima)
+
+
+----- Usar altar de aether
+- Altares de ugdenborg, tbm tem o de vitality.
+
+
+----- Buraco negro do vazio
+- Pegar a fx dos buracos do void (lugar)
+
+
+----- Invocar ctonicos de veneno
+- Invoca aquele ctonico que joga bola de veneno e nova de veneno.
+
+
+----- Chaos Wave
+- Igual a skill do Ezzek ZUl
+
+
+----- Void Aura
+- Aura igual ao Opressor Void
+
+
+----- Ciclone de gelo
+- Usar a que já existe no jogo mas aumentar o tamanaho para servir como skill de devoção
+
+
+----- Lightning Nova Gigantic
+- FX igual a skill das sentinelas(torres) de aether.
+
+---- Arc Attacks
+- Ataques do tipo Arc
+- Fazer para todos os tipos de dano (menos fisico e aether que já possui)
+- Usar os fx do tipo Skillshooter\Path lá tem os exemplos.
+
+
+---- Orbe de gelo replicating
+- Lança uma orbe lenta e normal que atravessa os inimigos.
+- Colocar um skill drop que é uma anel de estacas de gelo em 100% ao atingir (no caso a orb) um inimigo.
+
+
+----- Poison Pool
+- Igual a skill do druida do mod Cataclysm da skill poison orb(ver video)
