@@ -77,3 +77,17 @@ tagSkillSpellThiefDesc12=Aumenta suas resistências.
 #Allostria Power
 tagSkillSpellThiefName13=Allostria Power
 tagSkillSpellThiefDesc13=Habilidade que te especializa nas técnicas de Allostria.
+
+#Allostria Ataque Giratório
+tagSkillSpellThiefName14=Ataque Giratório de Allostria
+tagSkillSpellThiefDesc14=Golpe usado para acertar inimigos em volta com um giro 360.^o Requer arma de corpo a corpo.
+tagSkillSpellThiefName14b=Transmutador
+tagSkillSpellThiefDesc14b=Modifica o dano elemental para dano de vitalidade.
+tagSkillSpellThiefName14A=Ataque Giratório de Allostria II
+tagSkillSpellThiefDesc14A=Aumenta o dano e causa perda de vitalidade nos inimigos.
+
+#Allostria Ataque Duplo
+tagSkillSpellThiefName15=Ataque Duplo de Allostria
+tagSkillSpellThiefDesc15=Ataque com as duas armas ao mesmo tempo.^o Requer duas armas de corpo a corpo.
+tagSkillSpellThiefName15T=Transmutador
+tagSkillSpellThiefDesc15T=Converte o dano elemental para vitalidade.

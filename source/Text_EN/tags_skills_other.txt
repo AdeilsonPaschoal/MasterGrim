@@ -1,0 +1,3 @@
+#--- Frenético
+tagMasterSkillOtherName10=Frenético
+tagMasterSkillOtherDesc10=Ataque de arma padrão com chances de aumento de velocidade e dano.
