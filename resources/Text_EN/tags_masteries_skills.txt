@@ -116,6 +116,21 @@ tagSkillPriestDesc21T=Retira o tempo de recarga mas diminui o dano.
 
 #Nova sagrada
 tagSkillPriestName22=Nova Sagrada
+
+#Summon Divine Warrior
+tagSkillPriestName23=Summon Divine Warrior
+tagSkillPriestDesc23=Invoca um Guerreiro sagrado para ajuda-lo em batalha.^o Dano se escala com bonus de Pets.
+tagSkillPriestName23S1=Sacred Strike
+tagSkillPriestName23S2=Sacred Explosion
+tagSkillPriestName2A=Chamado dos Céus
+tagSkillPriestDesc2A=Aumenta o dano sagrado dos aliados próximos.
+
+#Summon Divine Mage
+tagSkillPriestName24=Summon Divine Mage
+tagSkillPriestDesc24=Invoca o poderoso mago divino.^o Dano se escala com bonus de Pets.
+tagSkillPriestName24S1=Corrente de energia sagrada
+tagSkillPriestName24S2=Raio sagrado
+tagSkillPriestName24S3=Meteoros da punição
 #-----------------------------------------------Hunter
 
 tagClassHunterSkillName00=Hunter

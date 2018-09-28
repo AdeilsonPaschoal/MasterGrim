@@ -1,0 +1,7 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,,
+petSkillName,records/skills/priest/pets/petskill_divine_warrior_sacredeaura.dbr,
+petChanges,,
+cooldownTime,,
