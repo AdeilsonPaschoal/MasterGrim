@@ -1,0 +1,3 @@
+#--- Lightning Wave
+customTagsLightningSkillName01=Lightning Wave
+customTagsLightningSkillDesc01=Onda de raio irrompe de você.

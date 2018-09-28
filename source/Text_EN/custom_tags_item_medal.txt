@@ -1,0 +1,6 @@
+#-- Fire Medal
+customTagsMedal01Name=Medal Ring of Fire
+
+#--- Lighting Medal
+customTagsMedal02Name=Medal Mage of Lighting
+

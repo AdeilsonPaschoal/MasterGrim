@@ -1,0 +1,4 @@
+#--- WeaponPool Poison
+
+customTagsSkillsPoison01Name=Necro Attack Poison
+customTagsSkillsPoison01Desc=Ataque de veneno clássico dos necromantes.^o Requer arma corpo a corpo de duas mãos.

@@ -1,0 +1,5 @@
+customTagRingsName01=Ring Firewave
+customTagRingsName02=Ring Aetherwave
+customTagRingsName03=Ring Chaoswave
+customTagRingsName04=Ring Elementalwave
+customTagRingsName05=Ring Lightningwave

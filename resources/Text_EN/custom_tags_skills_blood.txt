@@ -1,0 +1,2 @@
+#-- Blood Nova
+customTagsSkillsBlood01Name=Blood Nova

@@ -1,0 +1,15 @@
+#-- Fire Forcewave
+customTagsSkillsFire01Name=Fire Forcewave
+customTagsSkillsFire01Desc=Onda de Força em forma de fogo irrompe dos seus ataques.^o Requer arma corpo a corpo de duas mãos.
+
+#-- Ring Fire
+customTagsSkillsFire02Name=Anel de Fogo
+customTagsSkillsFire02Desc=Chams em volta de ti em forma de anel, os inimigos dentro da área levam dano de fogo.
+
+#-- Burst Arrow
+customTagsSkillsFire03Name=Burst Arrow
+customTagsSkillsFire03Desc=Lança vários projetos de uma vez.^o Requer arma de longa distância.
+
+#-- Fire Wave
+customTagsSkillsFire04Name=Firewave
+customTagsSkillsFire04Desc=Ondas de fogo irrompe de você e queimam os seus inimigos.

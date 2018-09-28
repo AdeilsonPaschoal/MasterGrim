@@ -1,0 +1,8 @@
+#--- Fire Mace
+customTagsItemW2hName01=Mace of Fire
+
+#--- Foice Poison
+customTagsItemW2hName02=Necromancer Foice Poison
+
+#--- Besta de Fogo
+customTagsItemW2hName03=Besta das Setas de Fogo

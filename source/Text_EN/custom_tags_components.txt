@@ -1,0 +1,7 @@
+customTagsComponentBuffName=Componente de Buff
+customTagsComponentModifier=Componente Modificador
+customTagsComponentSkill=Componente de Habilidade
+customTagsComponentSummon=Componente Invocador
+customTagsComponentWeaponPoll=Componente de Ataque Padrão
+
+customTagsComponentDescricao=Usado em jóias, armas e off-hands.

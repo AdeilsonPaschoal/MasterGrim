@@ -1,0 +1,8 @@
+#--- Amuleto do Raio elétrico
+customTagsNecklace01Name=Amuleto do raio elétrico
+
+#---- Amuleto Necromancer Sangrento
+customTagsNecklace02Name=Amuleto do necromancer sangrento
+
+#---- Amuleto Demolicionista Eletrico
+customTagsNecklace03Name=Amuleto do Demolicionista elétrico
