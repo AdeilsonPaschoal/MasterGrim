@@ -124,13 +124,6 @@ tagSkillPriestName23S1=Sacred Strike
 tagSkillPriestName23S2=Sacred Explosion
 tagSkillPriestName2A=Chamado dos Céus
 tagSkillPriestDesc2A=Aumenta o dano sagrado dos aliados próximos.
-
-#Summon Divine Mage
-tagSkillPriestName24=Summon Divine Mage
-tagSkillPriestDesc24=Invoca o poderoso mago divino.^o Dano se escala com bonus de Pets.
-tagSkillPriestName24S1=Corrente de energia sagrada
-tagSkillPriestName24S2=Raio sagrado
-tagSkillPriestName24S3=Meteoros da punição
 #-----------------------------------------------Hunter
 
 tagClassHunterSkillName00=Hunter

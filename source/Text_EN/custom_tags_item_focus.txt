@@ -1,0 +1,2 @@
+#--- Tomo do Archmage de Raio
+customTagsItemFocusName01=Tomo do Archmage de Raio
