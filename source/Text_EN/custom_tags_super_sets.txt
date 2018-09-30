@@ -14,3 +14,13 @@ customTagSuperSet01SkillDesc02=Ao ser atingido seu poder elétrico é materializ
 customTagSuperSet01SkillName03=Orbes Elétricas
 customTagSuperSet01SkillDesc03=Orbes elétricas são lançadas em forma de anel.
 customTagSuperSet01SkillName04=Lightning Bolt
+
+
+#---- Benjar Set
+customTagSuperSet02Name=Conjunto do Benn'Jahr
+customTagSuperSet02ItemName01=Elmo do Benn'Jahr
+customTagSuperSet02ItemName02=Mace do Benn'Jahr
+customTagSuperSet02ItemName03=Amuleto do Benn'Jahr
+
+customTagSuperSet02SkillName01=Chaos Stomp
+customTagSuperSet02SkillName02=Warp Breath
