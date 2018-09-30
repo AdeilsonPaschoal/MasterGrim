@@ -1,0 +1,16 @@
+#----- Mogdrogen Set
+
+customTagSuperSet01Name=Conjunto do Mogdrogen
+customTagSuperSet01ItemName01=Elmo do Mogdrogen
+customTagSuperSet01ItemName02=Torso do Mogdrogen
+customTagSuperSet01ItemName03=Calças do Mogdrogen
+customTagSuperSet01ItemName04=Luvas do Mogdrogen
+customTagSuperSet01ItemName05=Botas do Mogdrogen
+
+customTagSuperSet01SkillName01=Tempestade
+customTagSuperSet01SkillDesc01=Uma tempestade é lançada sob os inimigos.
+customTagSuperSet01SkillName02=Explosão Elétrica
+customTagSuperSet01SkillDesc02=Ao ser atingido seu poder elétrico é materializado em forma de explosão.
+customTagSuperSet01SkillName03=Orbes Elétricas
+customTagSuperSet01SkillDesc03=Orbes elétricas são lançadas em forma de anel.
+customTagSuperSet01SkillName04=Lightning Bolt
