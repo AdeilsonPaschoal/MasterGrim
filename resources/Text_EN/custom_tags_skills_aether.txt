@@ -1,3 +1,6 @@
 #--- Aether Wave
 customTagsAetherSkillsAetherWaveName01=Aether Wave
 customTagsAetherSkillsAetherWaveDesc01=Ondas de aether irrompe de você e atingem os seus inimigos.
+
+#--- Aether Infusion
+customTagsAetherSkillsAetherName02=Aether Infusion

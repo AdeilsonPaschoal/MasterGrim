@@ -6,3 +6,6 @@ customTagsNecklace02Name=Amuleto do necromancer sangrento
 
 #---- Amuleto Demolicionista Eletrico
 customTagsNecklace03Name=Amuleto do Demolicionista elétrico
+
+#---- Amuleto Arcano Etéreo
+customTagsNecklace04Name=Amuleto do Arcano Etéreo

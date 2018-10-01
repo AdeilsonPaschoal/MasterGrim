@@ -6,3 +6,6 @@ customTagsItemW2hName02=Necromancer Foice Poison
 
 #--- Besta de Fogo
 customTagsItemW2hName03=Besta das Setas de Fogo
+
+#--- Machado da Punicao
+customTagsItemW2hName04=Machado da Punição

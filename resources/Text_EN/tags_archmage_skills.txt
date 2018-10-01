@@ -106,3 +106,7 @@ tagSkillArchmageDesc17=Use o poder destrutivo de fogo e raio dos arquimagos.
 #Lightning Rain
 tagSkillArchmageName18=Lightning Rain
 tagSkillArchmageDesc18=Chuva de orbes de raio cai sob os inimigos.^o Requer foco.
+
+#Sun Spot
+tagSkillArchmageName19=Sunspot
+tagSkillArchmageDesc19=Raio de fogo intenso vindo dos céus.

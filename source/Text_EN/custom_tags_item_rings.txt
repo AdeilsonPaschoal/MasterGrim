@@ -3,3 +3,8 @@ customTagRingsName02=Ring Aetherwave
 customTagRingsName03=Ring Chaoswave
 customTagRingsName04=Ring Elementalwave
 customTagRingsName05=Ring Lightningwave
+
+#--- Set Frost Companions
+customTagRingsSetName01=Frost Companions
+customTagRingsName06=Ring Frost Companions A
+customTagRingsName07=Ring Frost Companions B
