@@ -5,3 +5,5 @@ customTagsComponentSummon=Componente Invocador
 customTagsComponentWeaponPoll=Componente de Ataque Padrão
 
 customTagsComponentDescricao=Usado em jóias, armas e off-hands.
+
+blueprintRandomModifiers=Modificador Randômico
